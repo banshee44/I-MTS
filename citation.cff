@@ -1,7 +1,5 @@
-cff-version: 1.2.0
-message: "If you use this resource, please cite it as below."
 @inproceedings{di-buono-2026-italian,
-    title = "{I}talian Medical Term Simplification: From Patient Information Leaflets to Simplified Language Resources",
+ title = "{I}talian Medical Term Simplification: From Patient Information Leaflets to Simplified Language Resources",
     author = "di Buono, Maria Pia",
     editor = "Gupta, Deepak  and
       Thompson, Paul  and
