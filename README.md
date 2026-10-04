@@ -8,11 +8,11 @@ The resource is distributed as a UTF-8-encoded TSV file. The first row contains 
 
 | Column | Description |
 |---|---|
-| `id_loc` | Identifier of the source entry. Multiple identifiers are separated by |. |
+| `id_loc` | Identifier of the source entry. Multiple identifiers are separated by '|'. |
 | `term` | Medical term represented by the entry. |
-| `simplification` | One or more simplified expressions. Multiple values are separated by |. |
+| `simplification` | One or more simplified expressions. Multiple values are separated by '|'. |
 | `type_of` | Broader term under which the entry is classified, when available. |
-| `var` | Orthographic variants of the term, separated by |. |
+| `var` | Orthographic variants of the term, separated by '|'. |
 ### Multiple values
 ### Data generation and validation
 ### Version note
