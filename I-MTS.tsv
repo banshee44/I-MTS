@@ -1,0 +1,1357 @@
+id_loc	category	term	type_of	var	simplification
+339_1976	medication	6-mercaptopurina			farmaco ad azione antinfiammatoria e immunosoppressiva
+260_283	disease	abbassamento della palpebra superiore			chiusura di metà dell'occhio
+286_1544	medication	abrocitinib			farmaco usato per il trattamento della dermatite atopica
+267_2009	disease	acatisia			problemi nei movimenti
+86_1920	disease	accidente cerebrale			ictus
+86_1920	disease	accidente cerebrovascolare			ictus
+583_1912	disease	accidenti cerebrovascolari			malattie che colpiscono il sistema nervoso
+266_1753|109_1732|272_2000|122_2135	medication	ace inibitori			medicinali per abbassare la pressione del sangue|medicinali per il trattamento della pressione del sangue alta|medicinali per ridurre la pressione arteriosa|medicinali per il trattamento della pressione sanguigna alta|medicinali usati per la pressione alta
+472_601	medication	acenocumarolo			farmaco utilizzato per fluidificare il sangue
+124_111|386_2119	medication	acetazolamide			farmaco utilizzato per trattare l'aumento della pressione dell'occhio|inibitori dell'anidrasi carbonica
+6_1750	medication	acido acetilsalicilico			aspirina|medicinali utilizzati per fluidificare il sangue|medicinali contenenti salicilati
+33_1446	medication	acido fusidico			medicinale per l'infezione batterica|medicinale per le infezioni batteriche|medicinale usato per trattare l'infezione batterica|medicinale per trattare le infezioni batteriche
+78_1083	body_part	acido urico			sostanze nel sangue
+28_1191	disease	acidosi metabolica			aumentata acidità del sangue|tendenza a perdere dall'organismo più proteine di quelle introdotte con la dieta
+327_813	disease	acne			brufoli|foruncoli
+8_435|501_807|379_2161|430_270	body_part	acth			corticotropina|ormone adrenocorticotropico|ormone della ghiandola pituitaria|ormone adrenocorticotropo|ormone ipofisario
+395_1774	body_part	addome			parte in alto a destra del ventre
+469_64	body_part	adh anti-diuretic hormone			ormone antidiuretico
+124_111	medication	adrenalina			farmaco utilizzato in emergenze con pericolo di vita
+530_2015	medication	adrenergici			guanetidina|betanidina|reserpina
+184_231	disease	affaticamento			eccessivo senso di stanchezza
+52_479	disease	afte			ulcere boccali
+266_1753	medication	agenti antiaggreganti			aspirina|medicinali che impediscono l'aggregazione delle piastrine
+596_902	medication	agenti antiaritmici			medicinali per controllare il battito cardiaco
+112_1112	medication	agenti antimicrobici	antimicrobici		moxifloxacina|eritromicina IV|pentamidina
+272_2000	medication	agenti antipertensivi	antipertensivi		medicinali per il trattamento della pressione sanguigna alta
+501_807	medication	agenti citostatici			medicinali che sopprimono le risposte immunitarie
+396_1994	medication	agenti di contrasto iodati			colorante nel sangue per effettuare esami ai raggi X
+326_390	medication	agenti ipoglicemizzanti orali			medicinali utilizzati per abbassare i livelli di zucchero nel sangue
+329_1081|78_1083	disease	agep			acuta pustolosi esantematica generalizzata|eruzione della pelle con piccole raccolte di pus
+375_213|326_390|204_391	disease	ageusia			alterazione del senso del gusto
+3_55	disease	agitazione			sensazione di irrequietezza
+164_1075	disease	agitazione ipomaniacale	agitazione		iperattività
+97_1554|21_2073|223_1396|537_1700|50_1002|577_115|78_1083|341_42|528_1788|25_1913	disease	agranulocitosi			alterazione dei livelli dei globuli bianchi|alterazioni del numero di globuli bianchi nel sangue|carenza di globuli bianchi|diminuzione dei livelli dei globuli bianchi del sangue|diminuzione di un certo tipo di globuli bianchi sensibili alle infezioni|diminuzione di alcune cellule del sangue|diminuzione di alcuni tipi di globuli bianchi|riduzione del numero di alcuni tipi di globuli bianchi|pericolosa diminuzione di un tipo di globuli bianchi|quantità fortemente ridotta di globuli bianchi accompagnata da ulcere in bocca|riduzione dei globuli bianchi|mancanza di globuli bianchi
+211_1724	body_part	alanina aminotransferasi			valori del sangue relativi al fegato
+248_344	body_part	alat			alanina aminotransferasi
+233_620	disease	albuminuria			alterazione delle analisi delle urine
+530_2015	medication	alcaloidi della segale cornuta			farmaco utilizzato per trattare l'emicrania
+138_875|111_1687	disease	alcalosi metabolica			grave perdita di acidi nel sangue|perdita eccessiva di cloruri con le urine
+521_1946	disease	alcolosi metabolica			aumento del ph del sangue
+129_203	medication	alfa bloccanti			medicinali per l'aumento della prostata o l'ipertensione
+327_813	disease	allergopatie gravi			reazioni allergiche
+289_320|27_695|415_208	medication	allopurinolo			farmaco usato nel trattamento della gotta|farmaco usato per il trattamento della gotta|farmaco usato per la gotta|farmaco utilizzato per la gotta|farmaco utilizzato per trattare la gotta
+166_504	disease	allucinazioni			sentire cose che non ci sono|sentire cose che non esistono|udire cose inesistenti
+205_2023	disease	allungamento tratto QT			disturbi cardiaci
+205_2023|7_212|183_184|211_1724|119_276|154_60|476_739|375_213	disease	aritmia			disturbi cardiaci|alterazione ritmo cardiaco|disturbi del ritmo cardiaco|problemi al cuore|ritmo cardiaco irregolare anomalo|battito cardiaco irregolare o presenza di battiti cardiaci in più|tachicardia ventricolare|prolungamento dell'intervallo QT|irregolarità del battito cardiaco|disturbo del normale ritmo del battito del cuore
+111_1687|189_202|2_2089	medication	alofantrina			farmaco antiparassitario per il trattamento di disturbi gastrointestinali|farmaco usato per il trattamento della malaria|farmaco usato per la malaria
+25_1913	disease	alopecia			perdita dei capelli|perdita di capelli|caduta di peli e capelli|perdita di capelli a chiazze|perdita di peli e capelli|perdita di peli e di capelli|perdita o diminuzione di peli e capelli
+276_1513	disease	alopecia androgenetica	alopecia		perdita di capelli a modello maschile
+314_1225	body_part	alp			enzimi del fegato
+500_1929|292_1923|86_1920|314_1225|100_922	body_part	alt			alanina aminotransferasi|enzima del fegato|enzima epatico
+355_1372	medication	alteplase			farmaco fibrinolitico
+118_793	disease	decolorazione			alterazione del colore della lingua
+348_442	disease	cambi di pigmentazione			alterazione del colore della pelle
+389_1856	disease	perdita della concentrazione			alterazione dell'attenzione
+389_1856	disease	smemoratezza			alterazione della memoria
+469_64	disease	diarrea o stipsi			alterazione delle abitudini intestinali
+469_64	disease	diarrea			alterazione delle abitudini intestinali
+174_788	disease	aggressività			alterazione del comportamento
+389_1856	disease	alterazioni del pensiero			lentezza di pensiero
+389_1856|246_35	disease	psicosi			alterazioni del pensiero|alterata percezione della realtà|anomalie del comportamento
+174_788	disease	alterazioni del sistema nervoso			perdita di coscienza
+38_1581	disease	alterazioni del sonno			sogni anomali, insonnia, sonnolenza
+342_33	disease	alterazioni della lingua			sensazione di bruciore o ulcere
+118_793	disease	infezioni da funghi			infezioni da parte di funghi
+450_394|39_163|107_1424|24_1417	disease	alveolite			disturbi della respirazione|infiammazione degli alveoli polmonari|infiammazione e dolore dopo un'estrazione dentale
+24_1417	disease	alveolite secca	alveolite		infiammazione e dolore dopo un'estrazione dentale
+39_163	disease	alveoliti			infiammazione degli alveoli polmonari
+173_1220|367_1608	disease	ambliopia			alterazioni della vista|perdita temporanea della vista|disturbi della vista
+289_320	medication	amfoteracina b			farmaco usato per il trattamento delle infezioni fungine
+430_270|116_2079	medication	amifostina			farmaco usato per il trattamento del cancro|farmaco usato per trattare il cancro|sostanza protettiva durante chemio radio terapia|sostanza protettiva usata in alcune terapie antitumorali
+89_1288|390_1556|479_1535	medication	amiodarone			farmaco per il battito cardiaco irregolare|farmaco usato per trattare anomalie del battito cardiaco|farmaco usato per trattare il battito cardiaco irregolare o anormale|farmaco utilizzato per il trattamento di aritmie cardiache|farmaco utilizzato per il trattamento del battito del cuore irregolare|farmaco utilizzato per il trattamento delle aritmie cardiache|farmaco utilizzato per il trattamento delle aritmie
+155_108|97_1554	medication	amlodipina			farmaco usato per trattare la pressione sanguigna elevata|farmaco usato per trattare la pressione sanguigna elevata o l'angina o il battito cardiaco anormale|medicinali usati per trattare problemi al cuore
+531_977	disease	ammoniemia			aumenti dei livelli di ammoniaca
+117_303	disease	amnesia			disturbo della memoria
+472_601	medication	amoxicillina			farmaco utilizzato per trattare le infezioni batteriche
+124_111	medication	anabolizzanti			farmaco utilizzato per potenziare la muscolatura
+83_1197	disease	anadisplasia metafisaria			ritardo nella crescita e alterazione a carico delle ossa
+376_945|266_1753|200_1038|275_91|244_779|532_282|442_1385|192_1662	disease	anafilassi			gravi reazioni allergiche|rapide reazioni allergiche generali|reazione allergica grave|reazione allergica improvvisa|reazioni allergiche gravi|reazioni allergiche|reazioni allergiche gravi a rapida comparsa|reazione allergica
+133_106	disease	anafilassi acuta	anafilassi		reazioni allergiche acute
+342_33	body_part	androgeni			ormoni sessuali
+233_620|275_91|386_2119|21_2073	disease	anemia			alterazioni dei livelli dei globuli rossi e dei globuli bianchi nel sangue|carenza di emoglobina nel sangue|deficit di tutte le cellule del sangue|distruzione dei globuli rossi
+50_1002|91_2038|386_2119|450_394	disease	anemia aplastica	anemia		alterazione dei livelli di tutte le cellule del sangue|carenza dei globuli bianchi e rossi e delle piastrine|carenza dei globuli rossi e bianchi e delle piastrine|deficit di tutte le cellule del sangue|malattia dovuta a carenza di globuli rossi a causa della mancata produzione di questi da parte del midollo osseo
+531_977|573_780|537_1700|21_2073|400_787|8_435|63_328	disease	anemia emolitica	anemia		alterazione dei livelli dei globuli rossi|aumentata rottura delle cellule|diminuzione dei livelli dei globuli bianchi del sangue|distruzione dei globuli rossi|distruzione troppo veloce dei globuli rossi|malattia dovuta alla distruzione dei globuli rossi|rottura dei globuli rossi del sangue
+415_208	disease	anemia emolitica autoimmune refrattaria	anemia emolitica		distruzione dei globuli rossi da parte degli anticorpi
+3_55	disease	aneurismi			dilatazione e indebolimento della parete aortica o lacerazione della parete aortica
+211_1724|547_1813	disease	angina			problemi al cuore|dolore al torace dovuto alla mancanza di ossigeno al cuore
+153_1230	disease	angina di prinzmetal	angina		problemi delle arterie che portano sangue al cuore|forma rara di angina
+315_1960	disease	angina instabile	angina		dolore al torace
+87_259|72_81	disease	angina pectoris	angina		dolore toracico|dolori preesistenti al petto|forte dolore al petto|grave dolore al petto|grave dolore toracico|inadeguato afflusso di sangue al cuore|intenso dolore al torace|peggioramento dei dolori al petto|problemi del cuore|sensazione dolorosa di costrizione al petto|costrizione toracica causata da un insufficiente apporto di sangue al cuore|oppressione al torace|pesantezza toracica
+361_2139|22_934|6_1750|516_416|363_1922|376_945|86_1920|148_1650|64_528|292_1923|141_151|200_1038|183_184|130_2080|442_1385	disease	angioedema			accumulo di liquidi|accumulo di liquidi intorno alla bocca e agli occhi|accumulo improvviso di liquido nella pelle e nelle mucose|anormale ritenzione di liquidi nei tessuti di origine allergica|edema del volto e delle estremità|edema della gola con difficoltà a respirare|edema della gola con possibile difficoltà a respirare e a deglutire|edema della gola e della mano|gonfiore del viso|gonfiore del volto|gonfiore rapido dei tessuti|grave reazione allergica|ostruzione delle vie aeree|reazione allergica|reazione allergica grave|reazione allergica grave che causa gonfiore del viso o della gola|reazioni infammatorie e gonfore della pelle
+521_1946	disease	angioite necrotizzante			eruzione sulla pelle
+591_457	disease	anoressia			diminuzione dell'appetito
+249_1035|200_1038	disease	anormale eliminazione delle urine			svuotamento involontario della vescica durante il sonno notturno|svuotamento involontario della vescica durante il sonno
+371_1919	disease	anormalità della funzionalità epatica			del fegato
+371_1919	disease	anormalità della funzione epatica			del fegato
+204_391|319_781|7_212	disease	anosmia			alterazioni dell'olfatto|cambiamenti nel senso dell'olfatto|perdita dell'olfatto
+553_83|455_1384	disease	ansia			eccessivo disagio emotivo|paura di trovarsi in luoghi dove non è disponibile aiuto
+497_805	disease	ansietà			stato di incertezza
+461_297	medication	ansiolitici			farmaci depressivi del sistema nervoso centrale
+141_151	medication	antagonisti degli recettori α1 per adrenalina			antiinfiammatorio
+314_1225	medication	antagonisti dei recettori h			antiacidi|medicinali per il trattamento delle ulcere gastriche o duodenali
+272_2000	medication	antagonisti del recettore dell'angiotensina ii			medicinali per il trattamento della pressione sanguigna alta
+266_1753	medication	antagonisti dell'angiotensina ii			medicinali per abbassare la pressione del sangue|medicinali per il trattamento della pressione del sangue alta
+270_1221	medication	anti h			medicinali utilizzati per l'ulcera
+150_539	medication	antiacidi			farmaco usato per abbassare l'acidità dello stomaco|farmaco usato per diminuire l'acidità dello stomaco|farmaco usato per l'indigestione o l'acidità di stomaco|farmaco usato per trattare bruciore alla bocca dello stomaco o rigurgito acido|farmaco usato per trattare l'indigestione
+277_308	medication	antibiotici			medicinali per combattere le infezioni|medicinali per trattare le infezioni|claritromicina|rifapentina|bacitracina|cefaloridina|paromomicina|vancomicina|streptomicina|polimixina B|eritromicina|rifampicina|cloramfenicolo|clorochina
+576_951	medication	antibiotici aminoglicosidici	antibiotici		medicinali per il trattamento di infezioni gravi
+23_1500	medication	antibiotici chinolonici	antibiotici		ciprofloxacina|levofloxacina|norfloxacina|ofloxacina|medicinali per il trattamento delle infezioni
+311_2156	medication	antibiotico			ciprofloxacina|dapsone|eritromicina|linezolid|linezolide|medicinale per le infezioni da batteri|moxifloxacina|Rifampicina|vincamicina
+394_1864	medication	anticoagulante			medicinali che riducono la coagulazione del sangue|sostanze che fluidificano il sangue impedendo la formazione di coaguli|aspirina / acido acetilsalicilico|warfarin|ticlopidina
+123_1183|132_1971	medication	anticonvulsivanti			farmaco utilizzato per il trattamento dell'epilessia|sostanze impiegate per prevenire e trattare gli attacchi epilettici
+400_787|122_2135	medication	antidepressivi			citalopram|triciclici|medicinali contro la depressione|medicinali per la depressione|nortriptilina|farmaci usati per il trattamento della depressione|fluoxetina|medicinali usati per la depressione
+160_839|116_2079|122_2135	medication	antidepressivi triciclici	antidepressivi		imipramina o amitriptilina|medicinali per la depressione|medicinali contro la depressione della classe dei triciclici|medicinali usati per trattare la depressione|imipramina|amitriptilina|medicinali per trattare la depressione|desipramina|medicinali usati per la depressione
+122_2135	medication	antiipertensivi			medicinali usati per la pressione alta
+158_275	medication	antimicrobici			medicinali che appartengono al gruppo dei macrolidi|medicinali che appartengono alla classe dei macrolidi|medicinali contro le infezioni|medicinali che appartengono alla classe dei macrolidi quali eritromicina|azitromicina|claritromicina
+254_800	medication	antipertensivi			medicinali contro la pressione alta
+338_2136	medication	antipertensivi diuretici	antipertensivi		medicinali usati per abbassare la pressione sanguigna|medicinali per la ritenzione idrica o per problemi di cuore
+367_1608|461_297|521_1946	medication	antipsicotici			farmaci contro la psicosi|farmaci depressivi del sistema nervoso centrale|farmaco usato in gravi disturbi psichiatrici|farmaco usato per gravi malattie mentali|farmaco usato per il trattamento di disturbi della mente|farmaco utilizzato per gravi malattie mentali
+148_1650	medication	antireumatici			fenilbutazone
+237_96	medication	antivirali			medicinali utilizzati per trattare le infezioni virali
+111_1687|25_1913	disease	anuria			necessità di urinare spesso e successivamente riduzione delle urine fino scomparsa|urina assente
+523_884	disease	apatia			stato di indifferenza
+341_42	disease	aplasia pura delle cellule della serie rossa			riduzione molto grave della conta dei globuli rossi
+75_2025	disease	appiattimento dell'onda t			alterazione dell'elettrocardiografia
+392_1526|524_98	disease	aritmia cardiaca	aritmia		alterazioni del ritmo cardiaco|ritmo irregolare del cuore
+112_1112	disease	aritmia ventricolare	aritmia		frequenza cardiaca insolita o molto veloce
+426_330	body_part	arterie coronarie			vasi del cuore
+9_1978|26_362|335_1836|126_1131|455_1384|400_787|367_1608	disease	artralgia			Dolore ai muscoli e alle articolazioni|dolore ai muscoli ed alle articolazioni|dolore alle articolazioni|dolore alle ossa e alle giunture|dolore alle ossa e articolazioni|dolore articolare|dolore articolari|dolore delle articolazione|dolore delle articolazioni|dolori alle articolazioni|dolore articolare e dolore muscolare|dolori ai muscoli ed alle articolazioni|dolori muscolari e delle articolazioni|infiammazione alle articolazioni|infiammazione di un'articolazione
+279_1324|26_362|400_787|243_1466|367_1608|313_1847	disease	artrite			degenerazione delle articolazioni|gonfiore delle articolazioni|rigidità delle articolazioni|gonfiore e/o rigidità|dolore alle articolazioni|infiammazione alle articolazioni|infiammazione delle articolazioni|infiammazione di un'articolazione|rigidità articolare|dolori e infiammazione alle articolazioni
+279_1324	disease	artrosi			degenerazione delle articolazioni
+248_344|576_951	body_part	asat			aspartato aminotransferasi|aumento dei valori degli esami del sangue per fegato
+211_1724	disease	asistolia			problemi al cuore
+467_1268|211_1724|473_1670|157_1755|143_322|388_1677	medication	asma			adrenalina|ciclesonide|difficoltà di respirazione|difficoltà respiratorie|restringimento e infiammazione dei bronchi|attacchi asmatici|affanno|difficoltà a respirare
+85_1561	disease	aspetto cushingoide			accumulo di grasso a livello facciale
+153_1230|314_1225|100_922	body_part	ast			aspartato transferasi|enzimi del fegato|enzimi epatici
+504_428|496_958|138_875	disease	astenia			mal di testa e fatica|sensazione di malessere generale|stanchezza
+389_1856|38_1581|535_220	disease	atassia			alterazione della coordinazione motoria|movimenti anomali transitori|progressiva perdita della coordinazione muscolare che rende difficile i movimenti
+26_362	disease	atralgia			dolore alle articolazioni
+237_96	body_part	atrii			parte del cuore
+87_259	disease	attacco cardiaco			dolore toracico
+86_1920	disease	attacco cerebrale			ictus
+86_1920	disease	attacco ischemico transitorio			ictus
+392_1526	disease	aumentata attività onirica			aumento dei sogni
+243_1466	disease	aumentati livelli di proteine nelle urine			anomalie nei risultati dei test sulle urine
+206_277	disease	aumento dei livelli degli enzimi epatici			cambiamenti nei parametri delle analisi di laboratorio
+582_551	disease	aumento dei livelli della fosfatasi alcalina nel sangue			esame per valutare le condizioni delle ossa e del fegato
+243_1466	disease	aumento del livello di creatina fosfochinasi nel sangue			indicatore di danno muscolare
+22_934	disease	aumento del tempo di protrombina			problemi della coagulazione del sangue
+248_344	disease	aumento della bilirubina			modifiche nelle analisi del sangue che controllano il funzionamento del fegato|modifiche nelle analisi del sangue che verificano il funzionamento del fegato
+54_1210	disease	aumento delle transaminasi			problemi della funzionalità del fegato|alanina aminotransferasi e aspartato aminotransferasi
+402_401	disease	aumento di transaminasi			anormalità nei test di funzionalità del fegato
+275_91	disease	aumento nei valori ematici			funzionalità del fegato
+339_1976|544_95	medication	Azatioprina			farmaco ad azione antinfiammatoria e immunosoppressiva|farmaco usato per prevenire il rigetto dopo trapianto d'organo o per trattare malattie del sistema immunitario dette autoimmuni
+339_1976	medication	aziatioprina			farmaco ad azione antinfiammatoria e immunosoppressiva
+163_1532	medication	azitromicina			antibiotici per il trattamento di infezioni batteriche
+531_977|361_2139	disease	azotemia			aumenti dei livelli di azoto|aumento dell'azoto nel sangue|aumento/diminuzione della quantità di azoto non proteico nel sangue|azoto e di creatina nel sangue
+78_1083	body_part	azoto			sostanze nel sangue
+2_2089	medication	baclofene			farmaco antispastico
+397_789	body_part	basofili			cellule del sangue
+117_303	medication	benzodiazepine			tranquillanti|usate per il trattamento dell'ansia o dei disturbi del sonno|midazolam|triazolam|medicinali usati per trattare l'ansia o per aiutarla a dormire
+122_2135	medication	beta bloccanti			medicinali usati per trattare la pressione alta o problemi del battito del cuore
+155_108	medication	bezafibrato			farmaco usato per ridurre il colesterolo
+234_1317|335_1836|535_220|78_1083	body_part	bilirubina			parametri del fegato nel sangue|prodotto di decomposizione dei globuli rossi|sostanza prodotta dal fegato|sostanze nel sangue
+28_1191	medication	bisfosfonati orali			farmaco usato per trattare l'osteoporosi
+211_1724	disease	blastomicosi			infezione a livello generale causata da fungo che si manifesta a livello dei polmoni
+547_1813	disease	blefarite			infiammazione del margine della palpebra|infiammazione del margine delle palpebre|infiammazione del margine palpebrale|infiammazione della palpebra|infiammazione delle palpebre
+10_2006	medication	bloccanti neuromuscolari			medicinali che provocano rilassamento dei muscoli
+72_81	disease	blocco atrio ventricolare		blocco atrioventricolare	disturbi della conduzione elettrica del cuore
+143_322	disease	blocco atrioventricolare		blocco atrio ventricolare	disturbi nella conduzione dell'impulso cardiaco tra atrio e ventricolo
+183_184	disease	blocco atrioventricolare di 2° e 3° grado	blocco atrioventricolare	blocco atrioventricolare di secondo e terzo grado	disturbi del ritmo cardiaco
+237_96	disease	blocco atrioventricolare di secondo e terzo grado	blocco atrioventricolare	blocco atrioventricolare di 2° e 3° grado	alterazione grave del sistema di conduzione elettrica del cuore
+354_1249|314_1225	disease	blocco seno atriale			disturbi del sistema di conduzione elettrica del cuore|disturbo del ritmo del cuore
+410_2043	medication	blu di metilene			farmaco usato per trattare alti livelli di metaemoglobina nel sangue
+243_1466|109_1732|228_480	disease	borsite			infiammazione delle articolazioni|manifestazioni acute articolari e periarticolari|infiammazione delle borse piene di liquido che costituiscono un cuscino tra le ossa e i tendini e/o i muscoli che circondano un'articolazione
+294_1597	disease	bpco			broncopneumopatia cronica ostruttiva
+585_647|97_1554|493_420|153_1230	disease	bradicardia			alterazioni del battito del cuore|alterazioni del ritmo cardiaco|rallentamento dei battiti cardiaci|rallentamento del battito|rallentamento del battito del cuore
+26_362	disease	bronchiectasie			condizione in cui le vie aeree polmonari sono dilatate in modo anomalo
+348_442	disease	bronchiolite obliterante con polmonite organizzata	polmonite		difficoltà a respirare
+154_60|376_945|590_139|187_411|244_779|22_934	disease	bronchite			infezione del polmone|infezioni delle vie aeree|infezioni dei bronchi e dei polmoni|infezioni del tratto respiratorio|infiammazione dei bronchi|infiammazione delle vie aeree|infiammazione delle vie respiratorie|infezione dei bronchi e dei polmoni|infezioni dei bronchi
+492_343	disease	bronchite cronica	bronchite		malattia cronica dei polmoni
+58_1569|70_53	disease	bronchite cronica asmatiforme	bronchite cronica		asma originata da infiammazione dei bronchi|infiammazione dei bronchi con difficoltà nella respirazione
+473_1670|450_394|577_115|63_328	disease	broncospasmo			difficoltà di respirazione|disturbi della respirazione|reazione asmatica|reazioni allergiche
+44_631	medication	Buprenorfina			farmaco usato per trattare il dolore e la dipendenza da oppioidi
+442_1385	medication	bupropione			farmaco usato per trattare la depressione
+112_1112	medication	buspirone			farmaco usato per l'ansia
+28_1191	medication	busulfan			farmaco usato come trattamento precedente il trapianto per distruggere il midollo osseo originale prima del trapianto
+138_875	disease	calcificazione vascolare			calcoli dentro i vasi
+138_875	disease	calcinosi			accumulo di calcio sotto la cute
+122_2135|97_1554	medication	calcio antagonisti			medicinali usati per la pressione alta|medicinali usati per trattare problemi al cuore
+585_647	disease	cambiamenti di umore			ansia
+525_2014	disease	cancrena			danno o morte dei tessuti
+375_213|131_588|397_789	disease	candida			fungo|infezione della vagina|infezioni da lieviti
+336_301	disease	candida nell'orofaringe	candida		infezioni da funghi nella bocca e nella gola
+97_1554|226_674|131_588	disease	candidiasi			infezione ai genitali|infezione delle mucose|infezione alla bocca o alla gola|infezione causata da un lievito che colpisce le zone umide del corpo|infezione della vagina|prurito e perdite biancastre
+297_338	disease	candidiasi orale	candidiasi		infezione della bocca|infezione della bocca da candida
+97_1554	disease	candidiasi orale atrofica cronica	candidiasi orale		infezione della bocca
+97_1554	disease	candidiasi orofaringea	candidiasi		infezione alla bocca o alla gola|infezioni della gola e delle mucose in generale
+207_1720|178_1802|542_1804|397_789|118_793	disease	candidosi			Infezione della bocca|Infezione della vagina e della vulva|infezione fungina|infezione fungina a carico di pelle o mucose|infezioni da lieviti|infezioni da parte di funghi
+207_1720|118_793	disease	candidosi orale	candidosi		Infezione della bocca|infezione della bocca da parte dei funghi
+207_1720	disease	candidosi vulvovaginale	candidosi		Infezione della vagina e della vulva
+109_1732	disease	capsulite			manifestazioni acute articolari e periarticolari
+475_327|408_1572|289_320	medication	carbamazepina			farmaco per l'epilessia|farmaco usato per il trattamento dell'epilessia|farmaco usato per il trattamento dell'epilessia e del disturbo bipolare|farmaco usato per trattare l'epilessia
+289_320|379_2161	medication	carbenoxolone			farmaco usato per il trattamento delle ulcere dello stomaco|farmaco usato per trattare le ulcere della bocca e dello stomaco
+599_475	medication	carbone			farmaco usato nel trattamento delle intossicazioni o nel sovradosaggio da medicinali
+152_249	disease	cardite reumatica			infiammazione del cuore associata alla febbre reumatica
+257_881	disease	cataratta			visione annebbiata o appannata
+355_1372	medication	cefacloro			antibiotico della classe delle cefalosporine
+355_1372	medication	cefamandolo			antibiotico della classe delle cefalosporine
+355_1372	medication	cefixime			antibiotico della classe delle cefalosporine
+355_1372	medication	cefoperazone			antibiotico della classe delle cefalosporine
+355_1372	medication	ceftriaxone			antibiotico della classe delle cefalosporine
+348_442	disease	cellulite			infiammazione dei tessuti sotto la pelle
+347_506|295_1810|96_454	disease	cheratite			infezioni della parte anteriore del bulbo dell'occhio|infiammazione e/o irritazione della superficie dell'occhio|infiammazione o irritazione della superficie dell'occhio|infiammazione/irritazione della superficie dell'occhio|infiammazioni della cornea
+207_1720	disease	cheratite fungina	cheratite		infezioni degli occhi
+96_454	disease	cheratite puntata	cheratite		infiammazioni della cornea
+17_1254	disease	cheratite puntata superficiale	cheratite puntata		malattia della cornea con arrossamento dell'occhio e visione offuscata|malattia della cornea con dolore oculare e vista offuscata
+131_588	disease	cheratite ulcerosa	cheratite		infiammazione della cornea
+553_83|165_1534	medication	chinidina			farmaco usato per curare problemi cardiaci ed alcuni tipi di malaria|farmaco usato per il trattamento di problemi del cuore e di alcuni tipi di malaria|farmaco usato per trattare le condizioni del cuore e alcuni tipi di malaria|farmaco usato per trattare le malattie cardiache e alcuni tipi di malaria|farmaco utilizzato per il trattamento dell'aritmia cardiaca|farmaco utilizzato per il trattamento di aritmie cardiache
+392_1526	medication	chinina			farmaco usato contro la malaria
+546_36	disease	chronic thromboembolic pulmonary hypertension CTEPH			Ipertensione polmonare tromboembolica cronica
+124_111	medication	ciclofosfamide			farmaco utilizzato per curare il cancro
+247_152|155_108|472_601|152_249|415_208|462_1456	medication	Ciclosporina			farmaco impiegato per prevenire le reazioni di rigetto dopo il trapianto di un organo|farmaco usato in pazienti sottoposti a trapianto d'organo|farmaco utilizzato per sopprimere il sistema immunitario|farmaco utilizzato per regolare il funzionamento del sistema immunitario in caso di trapianti|immunosoppressore|farmaco usato dopo i trapianti di organi|farmaco usato dopo trapianto d'organo|farmaco usato per prevenire il rigetto di un organo trapiantato o per altre condizioni come l'artrite reumatoide o la dermatite atopica|farmaco usato per proteggere contro il rigetto dei trapianti
+355_1372	disease	cid			coagulazione intravasale disseminata
+410_2043|87_259	medication	cimetidina			farmaco per l'ulcera gastrica|farmaco usato per trattare bruciori di stomaco e ulcere dello stomaco|farmaco usato per mal di stomaco e ulcera peptica
+583_1912	disease	circolatorio			accidenti cerebrovascolari
+252_577	disease	cirrosi biliare			peggioramento dell'infiammazione cronica delle vie biliari del fegato
+251_1616	disease	cirrosi epatica			problemi al fegato
+251_1616	disease	cirrosi epatica con ascite	cirrosi epatica		problemi al fegato
+165_1534|211_1724|400_787	medication	cisapride			farmaco utilizzato per i disturbi di stomaco|farmaco utilizzato per il trattamento di disturbi dello stomaco|farmaco per i disturbi di stomaco|farmaco usato in alcune malattie dello stomaco|farmaco usato per alcuni problemi dello stomaco e dell'intestino|farmaco usato per aumentare il movimento dell'intestino|farmaco usato per aumentare il movimento intestinale
+355_1372	disease	cisti ovarica emorragica			sanguinamento
+15_1269|467_1268|378_935|22_934	disease	cistite			aumento della produzione dell'urina|infiammazione delle vie urinarie|infiammazione alla vescica|infiammazione della vescica|infiammazione della vescica urinaria|infiammazione delle vescica|infezioni dell'apparato urinario|infezioni della vescica
+101_942	disease	cistite acuta non complicata	cistite		infezioni acute non complicate delle vie urinarie
+89_1288|74_268|10_2006	medication	claritromicina			antibiotici per le infezioni|farmaco usato per trattare le infezioni|antibiotico
+10_2006|165_1534|91_2038	disease	eritromicina			antibiotico|antibiotico per il trattamento delle infezioni|antibiotico utilizzato per il trattamento di infezioni batteriche|medicinale per le infezioni batteriche
+130_2080	disease	claudicatio intermittens			aumento della difficoltà di deambulazione
+82_1260	disease	claudicazione			crampi e/o dolore alle gambe mentre si cammina
+223_1396	medication	clomipramina			farmaco usato per il trattamento della depressione
+355_1372|493_420	medication	clopidogrel			farmaco con effetto antiaggregante piastrinico|medicinale usato per prevenire la formazione di coaguli di sangue
+19_998	medication	cloramfenicolo			farmaco usato nel trattamento delle infezioni
+185_870	medication	clorochina			medicinale contro la malaria
+124_111	medication	clorpromazina			farmaco utilizzato per trattare gravi disordini mentali
+375_213	body_part	cloruro			sale minerale
+28_1191	medication	clozapina			farmaco usato per trattare disturbi psichiatrici come la schizofrenia
+155_108	medication	cobicistat -amiodarone	amiodarone		farmaco usato per trattare un battito del cuore irregolare
+97_1554|283_1552	disease	coccidioidomicosi			infezioni causate da funghi|malattia del sistema broncopolmonare
+120_470	medication	codeina			farmaco narcotico o oppioide
+395_1774	disease	colangite			infiammazione del dotto biliare
+589_750	medication	colchicina			farmaco usato per curare la gotta
+578_1644	disease	colecisti			infiammazione della cistifellea
+578_1644|395_1774	disease	colecistite			infiammazione della cistifellea|infiammazione della colecisti
+269_173	disease	colelitiasi			calcoli alla cistifellea|calcoli biliari|calcoli della cistifellea o del dotto biliare
+97_1554|467_1268	disease	colestasi			disturbi al fegato|disturbi biliari|disturbo delle vie che trasportano la bile
+76_373	body_part	colesterolo hdl	colesterolo		colesterolo buono
+20_585|247_152	medication	colestipol			farmaco usato nella terapia per ridurre i livelli di colesterolo nel sangue|farmaco usato per ridurre i livelli di colesterolo nel sangue
+289_320	medication	colestipolo			farmaco usato per controllare i livelli di colesterolo|farmaco usato per ridurre i livelli di colesterolo nel sangue
+28_1191	medication	colestiramina			farmaco usato per ridurre i livelli di colesterolo nel sangue|farmaco usato per trattare il prurito causato da problemi al fegato
+491_109	disease	colica renale			dolore al fianco
+263_949	medication	colistina			sostanze potenzialmente nefrotossiche
+22_934|54_1210|265_1775|558_1734	disease	colite			infiammazione dell'intestino|infiammazione intestinale|infiammazione del colon|malattia infiammatoria cronica dell'intestino
+101_942	disease	colite associata ad antibiotici	antibiotici		infiammazione dell'intestino che si manifesta solitamente in seguito a trattamento antibiotico
+217_337	disease	colite pseudo membranosa	colite	colite pseudomembranosa	infiammazione del colon associata all'uso di antibiotici|infiammazione dell'intestino associata all'uso di antibiotici
+240_792|22_934	disease	colite pseudomembranosa	colite	colite pseudo membranosa	infezione intestinale|infiammazione dell'intestino
+327_813|152_249|450_394|9_1978|463_2005|52_479	disease	colite ulcerosa	colite		infiammazione all'intestino|infiammazioni croniche dell'intestino|infiammazione dell'intestino|malattia infiammatoria intestinale di lunga durata che interessa le parti finali dell'intestino|malattie infiammatorie intestinali di lunga durata che interessa la parte finale dell'intestino|malattie dell'intestino|patologie infiammatorie dell'intestino
+152_249	disease	collagenopatie			malattie del tessuto connettivo della pelle e delle mucose
+348_442	disease	collasso			grave riduzione della circolazione del sangue
+509_175	body_part	colon			parte dell'intestino
+86_1920	disease	colpo apoplettico			ictus
+166_504	disease	coma			perdita di coscienza
+78_1083	disease	coma ipoglicemico	coma		perdita di coscienza dovuta a una grave diminuzione dei livelli di zucchero nel sangue|perdita di coscienza
+497_805	disease	compromissione della funzionalità renale			alterazione del funzionamento dei reni
+269_173	disease	compromissione della funzione renale compresa nefrite interstiziale acuta	nefrite interstiziale acuta		malattia dei reni
+224_443|185_870|319_781	disease	delirio			confusione|avere la sensazione o credere in cose che non sono reali|stato confusionale acuto
+172_382	disease	congestione nasale			ostruzione nasale
+347_506|472_601	disease	congiuntivite			bruciore gonfiore e secrezione dell'occhio|secchezza degli occhi|infiammazione dell'occhio
+347_506	body_part	congiunta			membrana che ricopre l'occhio e la parte interna delle palpebre
+203_1719	disease	congiuntiviti			infezione agli occhi
+239_438	disease	convulsioni			attacchi|grande male
+239_438|112_1112	disease	attacchi epilettici			convulsioni|convulsioni da grande male
+239_438	disease	attacco epilettico			convulsioni
+239_438|311_2156	disease	epilessia			convulsioni|crisi epilettiche
+239_438	disease	stato epilettico			convulsioni
+239_438	disease	attacchi convulsivi o attacchi epilettici	attacchi epilettici		convulsioni
+389_1856	disease	alterazione della coordinazione motoria			coordinazione anormale
+82_1260	body_part	cornea			strato anteriore del bulbo dell'occhio
+537_1700|314_1225	medication	corticosteroidi			antiinfiammatori steroidei|medicinali di tipo ormonale|medicinali per trattare l'infiammazione|medicinali usati per trattare le infiammazioni|medicinali utilizzati per le infiammazioni|potenti farmaci antinfiammatori|cortisone|medicinali antiinfiammatori steroidei|medicinali per trattare le infiammazioni|medicinali che possono essere usati per le infiammazioni|medicinali per la riduzione dell'infiammazione|medicinali utilizzati per trattare le infiammazioni
+304_806	medication	corticosteroidi sistemici	corticosteroidi		medicinali per il trattamento delle infiammazioni
+327_813	body_part	cortisolo			ormone
+576_951	disease	costrizione toracica			dolore al petto
+153_1230|314_1225	body_part	cpk			creatinfosfochinasi|sostanze nel sangue
+317_1702	disease	crampi			contrazioni involontarie dei muscoli
+251_1616	disease	crampi muscolari			problemi ai muscoli
+361_2139	body_part	creatinemia			azoto e creatina nel sangue
+211_1724	disease	creatinfosfochinasi ematica			aumento di un enzima presente nel sangue|enzima presente nel sangue
+535_220|78_1083	body_part	creatinina			prodotto eliminato dai reni|sostanza nel sangue
+580_1865	medication	cumarinici			farmaci anticoagulanti|farmaci usati per rendere il sangue più fluido e prevenire la formazione di coaguli
+462_1456	medication	danazolo			ormone artificiale usato per trattare l'endometriosi
+578_1644	medication	dasabuvir			farmaco usato per trattare l'infezione da epatite C
+410_2043	disease	deambulazione notturna			sonnambulismo
+342_33	disease	deficit di androgeni			mancanza di ormoni sessuali
+279_1324	disease	depersonalizzazione			non sentirsi se stesso
+157_1755	disease	depressione			disturbi dell'umore|disturbi nel vivere le emozioni|disturbo dell'umore
+91_2038	disease	depressione del midollo osseo			disturbo della produzione delle cellule del sangue
+442_1385	medication	derivati fenotiazinici			antipsicotici
+98_32|275_91	disease	dermatite			ulcera e infiammazione della pelle|infiammazione della pelle
+30_50	disease	eczema costituzionale	eczema		dermatite atopica
+248_344|271_2037	disease	dermatite bollosa	dermatite		formazione di vescicole sulla cute|gravi reazioni cutanee|gravi reazioni della pelle
+590_139	disease	dermatite bollosa esfoliativa	dermatite bollosa		diffusa eruzione cutanea rossa con piccole vescicole contenenti pus
+459_1742|388_1677|507_1335|8_435	disease	dermatite esfoliativa	dermatite		desquamazione|esfoliazione e/o formazione di vesciche|formazione di vesciche|grave eruzione cutanea con desquamazione o esfoliazione dello strato superficiale della cute|irritazione cutanea con desquamazione della pelle|desquamazione della cute|desquamazione della pelle|esfoliazione della pelle|grave infiammazione della pelle|ispessimento della superficie cutanea con desquamazione|manifesta reazioni cutanee gravi
+211_1724	disease	dermatofitosi			infezione della pelle
+415_208	disease	dermatomiosite			malattia autoimmune che colpisce sia la pelle che i muscoli
+408_1572	medication	desmopressina			farmaco usato per il trattamento del diabete insipido
+8_435	disease	diaforesi			sudorazione anomala
+124_111	medication	diazossido			farmaco utilizzato per trattare la pressione alta o bassi livelli di zucchero nel sangue
+229_1547	medication	diclofenac			Farmaci Anti Infiammatori Non Sterodei – FANS|Farmaci Anti Infiammatori Non Sterodei, FANS|farmaci anti infiammatori non steroidei fans|farmaci anti infiammatori non steroidei, fans
+194_696	disease	dies			sindrome enterocolitica indotta da farmaco
+59_1690	medication	difemanil			farmaco utilizzato per il trattamento di disturbi gastrointestinali
+289_320	medication	digitale			farmaco usato per il trattamento di problemi del ritmo cardiaco|farmaco usato per trattare problemi cardiaci
+323_2133	medication	diidroergotamina			farmaco usato per il trattamento del mal di testa
+116_2079|160_839	medication	diltiazem			farmaco usato per la pressione del sangue alta o altri problemi di cuore|farmaco usato per trattare le irregolarità del battito cardiaco e la pressione sanguigna
+44_631	disease	diminuzione dei movimenti			disordini del movimento
+118_793	disease	diminuzione della conta linfocitaria			alterazione del numero dei globuli bianchi nel sangue
+143_322	disease	diminuzione della lacrimazione			occhi secchi
+497_805	disease	diminuzione della libido			disturbi sessuali
+82_1260	disease	diminuzione della sensibilità corneale			non ci si accorge di avere qualcosa nell'occhio e non si sente dolore
+389_1856	disease	diplopia			visione doppia
+40_797	disease	disartria			disturbi del linguaggio in cui le parole sono pronunciate in modo lento e difettoso
+558_1734|311_2156|200_1038|267_2009	disease	discinesia			alterazione dei movimenti|movimenti inusuali|movimenti involontari|movimenti involontari anomali|problemi nei movimenti|disturbi del movimento
+311_2156	disease	discinesie			movimenti inusuali
+118_793	disease	discomfort addominali			disturbi all'addome
+585_647	disease	discromia			alterazioni del colore della pelle
+402_401	disease	disestesia			disturbo della sensibilità
+254_800	disease	disfagia			difficoltà a deglutire|difficoltà a deglutire cibi e/o bevande|difficoltà nella deglutizione
+438_58|211_1724	disease	disfonia			alterazione della voce|disturbi della voce
+254_800	disease	disforia			alterazione dell'umore
+25_1913	disease	disfunzione erettile			impossibilità ad avere un'erezione|impotenza|incapacità a raggiungere o mantenere un'erezione|problemi ad avere/mantenere l'erezione
+25_1913	disease	disfunzione renale			problemi ai reni
+38_1581	disease	disfunzione sessuale			eiaculazione ritardata od assente, anorgasmia|problemi nell'attività sessuale|problemi nelle prestazioni sessuali|problemi relativi al rendimento sessuale|impotenza
+40_797|375_213|86_1920	disease	disgeusia			alterazione del gusto|alterazione del senso del gusto|alterazione nel senso del gusto|disturbi del gusto
+523_884	disease	disidratazione			eccessiva perdita di liquidi dal corpo
+567_1214	disease	dismenorrea			dolore associato al ciclo mestruale|dolori mestruali
+75_2025	disease	dispareunia			dolore nell'area della vagina durante un rapporto sessuale
+241_160	disease	dispepsia			bruciore di stomaco|cattiva digestione|compromissione della digestione|difficoltà a digerire|difficoltà di digestione|difficoltà digestive|difficoltà nella digestione|digestione difficile|digestione difficoltosa|digestione alterata|indigestione|fastidio e/o senso di pienezza allo stomaco|pienezza|problemi di digestione|problemi digestivi|problemi nella digestione|sensazione di pienezza
+431_579	disease	dispepsie biliari			malfunzionamento della cistifellea|malfunzionamento delle vie biliari
+201_1529	disease	dispesia			dolore all'alto addome, pienezza
+558_1734|473_1670|157_1755	disease	dispnea			affanno|difficoltà a respirare|difficoltà di respirazione|difficoltà nel respirare|difficoltà nel respiro|difficoltà nella respirazione|difficoltà respiratoria|respirazione difficile|respirazione difficoltosa|respiro corto|fiato corto|mancanza di fiato|mancanza di respiro|peggioramento dell'asma e respiro corto|problemi a respirare|problemi respiratori|sensazione di difficoltà a respirare|difficoltà respiratorie
+530_2015	disease	dispnea da sforzo	dispnea		fatica a respirare a seguito di uno sforzo fisico|grave difficoltà a respirare
+474_1816	disease	distichiasi			crescita anomala delle ciglia
+267_2009	disease	distonia acuta			problemi nei movimenti
+279_1324	disease	disturbi alla circolazione periferica			diminuzione della circolazione
+15_1269	disease	disturbi cerebrovascolari			problemi di circolazione del sangue al cervello
+452_1941	disease	disturbi da panico			attacchi di panico ricorrenti
+199_451	disease	disturbi del linguaggio			problemi del sistema nervoso
+267_2009	disease	spasmi incontrollabili o movimenti involontari			disturbi del movimento
+112_1112	disease	disturbi del sensorio			formicolio
+585_647|112_1112	disease	disturbi del sonno			ansia|sogni insoliti, incubi|turbe del sonno, incubi
+112_1112	disease	insonnia e sogni vividi			disturbi del sonno
+112_1112	disease	insonnia o sonnolenza			disturbi del sonno
+112_1112|6_1750|3_55	disease	insonnia			disturbi del sonno|disturbo del sonno|sonno disturbato
+524_98	disease	disturbi dell'accomodazione della vista			visione non nitida
+183_184	disease	disturbi dell'accomodazione visiva			problemi nel mettere a fuoco le immagini
+468_1094	disease	disturbi dell'attività onirica			sogni anomali
+143_322	disease	disturbi della circolazione periferica			mani e piedi freddi
+504_428	disease	disturbi della circolazione periferica del sangue			estremità fredde
+78_1083	disease	disturbi della deambulazione			andatura incerta
+504_428	disease	disturbi della minzione			problemi ad urinare
+367_1608	disease	compromissione della vista			disturbi della vista
+367_1608	disease	compromissione della visione			disturbi della vista
+367_1608	disease	disturbi della vista			difficoltà a mettere a fuoco
+367_1608	disease	miopia			disturbi della vista
+367_1608|38_1581	disease	visione offuscata			disturbi della vista|anomalie della visione
+452_1941	disease	disturbi di panico			attacchi di panico ricorrenti
+78_1083	disease	disturbi di stomaco			problemi digestivi
+337_1640	disease	disturbi extra piramidali		disturbi extrapiramidali	difficoltà nel controllare i movimenti del corpo o degli arti
+267_2009	disease	disturbi extrapiramidali		disturbi extra piramidali	problemi nei movimenti
+551_734	disease	disturbi gastrointestinali			nausea|diarrea
+585_647|146_1383	disease	disturbo d'ansia generalizzato	ansia		ansia
+585_647|146_1383	disease	disturbo d'ansia sociale	ansia		ansia
+553_83	disease	disturbo del ritmo cardiaco			battiti cardiaci irregolari
+200_1038	disease	disturbo dell'accomodazione			messa a fuoco difficoltosa
+245_1769	disease	disturbo della conduzione cardiaca			battito irregolare o altri cambiamenti nell'attività elettrica del suo cuore
+389_1856	disease	disturbo della personalità			problemi comportamentali
+585_647	disease	disturbo ossessivo compulsivo			ansia
+204_391	disease	disturbo psicotico			cambiamenti nella percezione del senso della realtà
+186_396	medication	disulfiram			farmaco usato nell'alcolismo
+40_797	disease	disuria			difficoltà a urinare|difficoltà ad urinare|difficoltà nell'urinare|difficoltà di emissione di urina|difficoltà nell'emissione dell'urina|emissione di urine con difficoltà
+115_318|10_2006|122_2135	medication	diuretici			compresse che aiutano ad urinare|compresse che favoriscono la diuresi|amiloride|medicinali che aiutano la formazione e l'eliminazione dell'urina|medicinali che aumentano la produzione di urine, furosemide|furosemide|medicinali che aiutano ad urinare|medicinali che facilitano l'eliminazione dell'urina|medicinali che facilitano l'eliminazione delle urine|medicinali che favoriscono la diuresi|medicinali che favoriscono la produzione di urina|medicinali per abbassare la pressione del sangue|medicinali per aumentare la produzione di urina|medicinali usati per aumentare l'eliminazione di urina|medicinali usati per favorire l'emissione di urina|medicinali che aumentano la produzione di urina|medicinali che favoriscono l'eliminazione di urina|spironolattone|triamterene|compresse per urinare|medicinali che aumentano la quantità di acqua eliminata attraverso i reni|medicinali che favoriscono l'eliminazione dell'urina|medicinali utilizzati per trattare la pressione alta|medicinali che aumentano la quantità di urina prodotta dai reni|medicinali che favoriscono l'eliminazione dei liquidi|medicinali che riducono la pressione alta|medicinali che aumentano il quantitativo di acqua eliminato attraverso i reni|medicinali che fanno abbassare la pressione|medicinali che aumentano l'eliminazione dell'urina|medicinali che aumentano la produzione dell'urina|medicinali usati per ridurre la pressione del sangue|medicinali che stimolano la produzione di urina|medicinali che causano un aumento dell'escrezione urinaria|medicinali usati per la pressione alta
+304_806	medication	diuretici risparmiatori del potassio	diuretici		medicinale usato per fluidificare il sangue e prevenire la formazione di coaguli
+206_277	medication	diuretici risparmiatori di potassio	diuretici		triamterene|medicinali per trattare la pressione alta del sangue aumentando la produzione di urina|spironolattone|amiloride
+114_1150	medication	diuretici tiazidici	diuretici		medicinali che favoriscono l'escrezione urinaria|medicinali per trattare la pressione del sangue alta|medicinali usati per aumentare la produzione di urina|medicinali che aumentano la produzione di urina
+16_1591	disease	doc			disturbo ossessivo compulsivo
+263_949|488_174|478_618	disease	dolore addominale			dolore alla pancia|dolore allo stomaco
+143_322	disease	dolore all'estremità			dolore a mani e piedi
+547_1813	disease	dolore puntorio			sensazione di puntura di spilli
+117_303	disease	dolore toracico			attacco cardiaco
+211_1724	medication	domperidone			farmaco per nausea e vomito
+137_238	body_part	duodeno			prima parte dell'intestino
+146_1383	disease	ecchimosi			sanguinamento della pelle e delle mucose
+38_1581	medication	ect			terapia elettroconvulsiva
+224_443	disease	eczema			eruzione cutanea di colore rosso|eruzione cutanea rossastra|eruzione pruriginosa della pelle
+234_1317|467_1268	disease	Edema			gonfiore dei tessuti|gonfiore|ritenzione di liquidi|gonfiore alle caviglie|gonfiore causato da ritenzione idrica|gonfiore causato da un accumulo di liquidi|gonfiore da accumulo di liquidi|gonfiore delle caviglie|gonfiore in diverse parti del corpo per accumulo di liquidi nell'organismo|gonfiore localizzato|gonfiore sia facciale che agli arti|gonfiore specialmente alle caviglie|ritenzione di liquidi nei tessuti|ritenzione idrica|scarsa eliminazione di sodio e di liquidi che si manifesta con gonfiore
+506_2114	disease	edema angioneurotico	Edema		gonfiore improvviso della pelle o delle mucose|gonfiore da accumulo di liquidi causato da problemi a livello dei vasi|gonfiore della cute e delle mucose|gonfiore della cute e delle mucose che interessa la faccia|gonfiore di viso bocca labbra e/o lingua|rigonfiamento di viso o gola|rigonfiamento di viso
+96_454	disease	edema congiuntivale	Edema		gonfiore degli occhi
+274_1821	disease	edema corneale	Edema		gonfiore e danno al lato frontale del bulbo oculare
+506_2114	disease	edema del viso	Edema		gonfiore al viso|gonfiore del viso
+91_2038	disease	edema della bocca	Edema		gonfiore della bocca|gonfiore nella bocca
+9_1978	disease	edema della faccia	Edema		gonfiore del viso
+21_2073	disease	edema della laringe	Edema		gonfiore della gola|gonfiore di laringe
+224_443	disease	edema di quincke	Edema		gonfiore al viso alle mani e ai piedi alle labbra alla lingua o alla gola
+376_945	disease	edema facciale	Edema		gonfiore del viso
+391_1625	disease	edema generalizzato	Edema		gonfiore che può interessare il viso|gonfiore di tutto il corpo|gonfiore generale e/o del volto|gonfiore in tutto il corpo
+304_806	disease	edema intestinale	Edema		rigonfiamento del rivestimento intestinale
+157_1755	disease	edema laringeo	Edema		gonfiore alla gola|gonfiore della gola|gonfiore della laringe
+268_830	disease	edema maculare	Edema		rigonfiamento della retina nella parte posteriore dell'occhio che può portare ad un peggioramento della vista|gonfiore della parte posteriore dell'occhio|gonfiore della retina|rigonfiamento della retina
+570_834	disease	edema maculare cistoide	edema maculare		gonfiore della retina all'interno dell'occhio che comporta un peggioramento della visione|rigonfiamento della retina all'interno dell'occhio che porta a un peggioramento della vista
+474_1816	disease	edema palpebrale	Edema		gonfiore delle palpebre
+118_793	disease	edema periferico	Edema		arti gonfi per accumulo di liquidi|gonfiore alle mani o alle gambe|gonfiore agli arti|gonfiore delle estremità|gonfiore delle mani o delle gambe|gonfiori alle gambe|gonfiore
+295_1810	disease	edema periorbitale	Edema		gonfiore della zona intorno agli occhi
+207_1720	disease	edema polmonare	Edema		acccumulo di liquidi nei polmoni|gonfiore|presenza di liquidi nei polmoni
+529_816|45_192	medication	efedrina			farmaco usato nell'asma|farmaco usato per il trattamento della congestione nasale
+444_1940	disease	effusione coroidale			accumulo di liquido nello strato vascolare dell'occhio
+497_805	disease	eiaculazione ritardata			disturbi sessuali
+110_1730|567_1214	disease	ematemesi			sangue nel vomito|sanguinamento dello stomaco con la presenza di tracce di sangue nel vomito
+355_1372|14_1137	disease	ematomi			sanguinamento|sanguinamento insolito o ecchimosi sottopelle|sanguinamento o ecchimosi inusuali sotto la cute
+506_2114|54_1210	disease	ematuria			presenza di sangue nelle urine|presenza di sangue o proteine nelle urine
+379_2161	disease	embolia			coaguli ematici
+448_1486	disease	embolia polmonare	embolia		coagulo di sangue nel polmone
+446_377	disease	emesi			vomito
+224_443|530_2015|302_2095|557_419	disease	emicrania			mal di testa|mal di testa unilaterale
+251_1616	disease	emoconcentrazione			aumento della concentrazione del sangue
+491_109	disease	emofilia b			malattia emorragica ereditaria dovuta alla carenza di fattore IX
+355_1372	disease	emorragia			sanguinamento
+125_1656	disease	emorragia cerebrale	emorragia		versamenti di sangue nel tessuto cerebrale|versamento di sangue nei tessuti che compongono il cervello
+546_36	disease	emorragia del polmone	emorragia		perdita di sangue acuta dai polmoni
+266_1753	disease	emorragia gastrointestinale	emorragia		lesione della parete dello stomaco o dell'intestino che può essere anche perforata e accompagnata da perdita di sangue
+63_328	disease	emorragia intracranica	emorragia		sanguinamento all'interno della testa
+370_1296	disease	emorragia post-partum	emorragia		eccessivo sanguinamento vaginale subito dopo il parto
+187_411	disease	emorragia uterina	emorragia		sanguinamento intimo
+546_36	disease	emottisi			emissione di sangue con la tosse
+452_1941	medication	enalapril			ACE inibitore
+560_1957	disease	encefalopatia			malattia del cervello
+111_1687|503_1618	disease	encefalopatia epatica	encefalopatia		alterazioni cerebrali conseguenti all'immissione in circolo di sostanze tossiche correlate all'insufficienza epatica|patologia a livello cerebrale
+217_337	disease	endocardite			infezione della superficie interna del cuore
+297_338	disease	endocarditi			infezioni a livello del cuore
+268_830	disease	enoftalmo			occhio infossato
+463_2005	disease	enterite regionale			malattie dell'intestino
+3_55|248_344	disease	enterocolite			infiammazione intestinale|infezione dell'intestino
+535_220	disease	enterocolite pseudomembranosa	enterocolite		infiammazione dell'intestino in seguito ad assunzione di antibiotici
+275_91	body_part	enzimi epatici			funzionalità del fegato
+397_789|258_1120|409_860|78_1083|289_320	body_part	eosinofili			cellule del sangue|globuli bianchi coinvolti nell'immunità|tipo di globuli bianchi|tipo di globuli bianchi del sangue
+378_935|3_55|22_934|91_2038|535_220|289_320|7_212	disease	eosinofilia			alterazione del numero di cellule del sangue|anomalie del sangue|anomalie delle cellule ematiche|anomalie negli esami del sangue|aumento dei livelli degli enzimi del fegato negli esami del sangue e un aumento di un tipo di globuli bianchi|aumento del numero di alcuni tipi di globuli bianchi chiamati eosinofili|aumento del numero di certi globuli bianchi nel sangue|aumento del numero di eosinofili|aumento del numero di globuli bianchi|aumento del numero di globuli bianchi nel sangue|aumento del numero di un particolare tipo di globuli bianchi|aumento del numero di un tipo di globuli bianchi del sangue chiamati eosinofili|aumento del numero di un tipo di globuli bianchi detti eosinofili nel sangue|aumento della quantità di un certo tipo di globuli bianchi|aumento di alcune cellule del sangue|aumento di alcuni globuli bianchi nel sangue|aumento di alcuni tipi di globuli bianchi|aumento di un tipo di globuli bianchi nel sangue chiamati eosinofili|aumento nel numero di alcune cellule del sangue|aumento nel numero di un certo tipo di globuli bianchi|aumento nel sangue del numero di un tipo di globuli bianchi chiamati eosinofili|aumento dei livelli dei globuli bianchi|aumento del numero dei globuli bianchi|aumento del numero di un tipo di globuli bianchi|aumento di un tipo di globuli bianchi|reazione a farmaco con aumento dei globuli bianchi nel sangue
+535_220	disease	eosinofilia associata a dress	eosinofilia		aumento del numero di un tipo di globuli bianchi
+8_435	disease	eosinofilia leucocitosi	leucocitosi		aumento nel numero di globuli bianchi
+378_935	disease	eosinofilia trombocitopenia	trombocitopenia		alterazione del numero di cellule del sangue
+42_1425|251_1616	disease	epatite			infiammazione al fegato|fegato infiammato|infiammazione del fegato|grave malattia del fegato|problemi al fegato|problemi epatici
+184_231	disease	HBV			epatite b
+231_1216|54_1210	disease	epatite fulminante	epatite		forma molto grave e improvvisa di epatite|grave disturbo del fegato|gravi problemi al fegato|morte improvvisa e massiva delle cellule del fegato|problemi al fegato
+97_1554	disease	epatopatia			disturbi al fegato
+414_596	disease	epatopatia colestatica	epatopatia		soppressione del flusso della bile
+355_1372|211_1724	disease	epatotossicità			danni al fegato|effetto dannoso al fegato
+577_115	disease	epididimite			infiammazione dell'epididimo
+361_2139	disease	epifora			lacrimazione degli occhi
+9_1978	disease	epigastralgia			dolore nella parte superiore dell'addome
+478_618	disease	dolore epigastrico			dolore allo stomaco
+128_536|150_539|331_547	disease	episclerite			arrossamento degli occhi|infiammazione degli occhi|infiammazione dell'occhio
+325_1560	disease	epistassi			emissione di sangue dal naso|perdita di sangue dal naso|fuoriuscita di sangue dal naso
+523_884	medication	ergocalciferolo			vitamina d
+28_1191	medication	ergotamina			farmaco usato per problemi cardiaci ed emicranie
+204_391	disease	erisipela			infezione della pelle
+98_32|128_536|186_396|75_2025	disease	eritema			arrossamento della cute|arrossamento della pelle dovuto alla dilatazione dei capillari|arrossamento della pelle dovuto alla dilatazione dei piccoli vasi sanguigni|arrossamento della pelle|cambiamenti di colore a macchie o diffusi|reazione allergica della cute
+314_1225	disease	eritema generalizzato	eritema		arrossamento esteso della pelle
+432_314	disease	eritema maculo papuloso	eritema		eruzioni cutanee caratterizzate da arrossamenti e bolle
+206_277|501_807|271_2037|8_435|225_1435|409_860|447_1757|573_780|412_1219|442_1385	disease	eritema multiforme	eritema		eruzione cutanea che spesso inizia con macchie pruriginose rosse sul viso, braccia, gambe|eruzione cutanea con macchie rosse|eruzione cutanea simile ad un bersaglio|eruzioni cutanee gravi|gravi reazioni della pelle|infiammazione cutanea|infiammazione dei vasi sanguigni con necrosi della pelle e reazioni dipersensibilità|lesioni a forma di bersaglio|lesioni sulla pelle|reazione allergica|reazioni a livello della pelle anche potenzialmente mortali|reazioni allergiche pericolose per la vita che colpiscono la pelle e le mucose|reazioni cutanee gravi|reazioni allergiche della pelle|eruzione cutanea
+594_170	disease	eritema multiforme essudativo	eritema multiforme		eruzione cutanea con febbre con coinvolgimento delle membrane mucose
+12_2054|188_295|412_1219	disease	eritema nodoso	eritema		noduli rossi sotto la pelle più comunemente sulle gambe|tumefazioni del tessuto sottocutaneo di colore rosso dolenti alla pressione localizzate più comunemente sulla superficie anteriore delle gambe|eruzione cutanea
+553_83	disease	eritema psoriasiforme	eritema		eruzione cutanea di aspetto bianco-argenteo
+507_1335	disease	eritroderma			grave eruzione cutanea con desquamazione o esfoliazione dello strato superficiale della cute
+128_536	disease	eritrodermia			arrossamento della pelle
+36_873	disease	eritromelalgia			dolore alle estremità di braccia e gambe
+221_154	medication	erlotinib			farmaco utilizzato per alcuni tipi di cancro
+77_857|96_454	disease	erosione corneale			danno allo strato anteriore del bulbo oculare|danno allo strato frontale del bulbo oculare
+82_1260|96_454	disease	erosione della cornea	cornea		danno allo strato anteriore del bulbo dell'occhio|danno allo strato frontale del bulbo oculare
+64_528	disease	erosioni esofagee			danno alla mucosa dell'esofago
+567_1214	disease	eruzione bollose			formazioni di bolle
+130_2080|380_71|442_1385	disease	eruzione cutanea			comparsa di macchie rosse sulla pelle|irritazione della pelle|grave reazione allergica|rigonfiamenti pruriginosi della cute|reazione allergica
+130_2080|412_1219|271_2037|473_1670	disease	esantema			eruzione cutanea|irritazione della pelle
+130_2080|380_71|169_2003|473_1670|317_1702|334_1203|217_337|439_1917|192_1662	disease	orticaria			eruzione cutanea|rigonfiamenti pruriginosi della cute|arrossamenti della pelle accompagnati da prurito|grave eruzione cutanea pruriginosa con chiazze irregolari pallide o rosse in rilievo|improvviso prurito|irritazione della pelle|irritazioni della pelle|arrossamento con prurito|piccole macchie rosse pruriginose sulla pelle|pomfi|pomfi rossi pruriginosi|problemi della pelle con infiammazione|rigonfiamenti sotto la sua pelle|sviluppo di una eruzione cutanea con formazioni rosse in rilievo|vescicole o bolle pruriginose|improvvisa comparsa di eruzione cutanea più o meno pruriginosa|reazione allergica cutanea di tipo cronico|condizione della pelle causata da un'allergia|grave reazione allergica|manifestazione a livello della pelle|prurito|reazione allergica
+130_2080|337_1640|375_213|109_1732	disease	pustolosi esantematica acuta generalizzata	pustolosi esantematica		eruzione cutanea|eruzione cutanea con arrossamento coperta da piccole vesciche piene di pus che possono diffondersi su tutto il corpo con febbre|eruzione cutanea con formazione di pustole superficiali|eruzione cutanea con vescicole contenenti pus|eruzione cutanea rossa e squamosa con formazione di pustole e vescicole|lesioni arrossate ed infette diffuse
+446_377|566_103|329_1081|164_1075|148_1650|97_1554	disease	dress			eruzione cutanea con eosinofilia|eruzione cutanea da farmaco con eosinofilia|eruzione da farmaci con eosinofilia|reazione al farmaco con eosinofilia|Reazione al medicinale con eosinofilia|reazione da farmaci con eosinofilia|reazione da farmaco|reazione da farmaco con eosinofilia|reazione di ipersensibilità|reazione di ipersensibilità grave|sintomi sistemici|grave reazione di ipersensibilità
+275_91	disease	eruzione fissa da farmaci			può manifestarsi con chiazze tonde o ovali con arrossamento e gonfiore della pelle|può manifestarsi sotto forma di macchie rotonde o ovali di arrossamento e gonfiore della pelle|chiazze tonde o ovali con arrossamento e gonfiore della pelle|può manifestarsi con chiazze tonde o ovali con arrossamento e gonfiore 6 della pelle
+535_220	disease	eruzione maculopapulare			comparsa di chiazze arrossate sulla pelle
+535_220	disease	eruzione morbilliforme			comparsa di chiazze arrossate sulla pelle
+186_396	disease	eruzioni cutanee			cambiamenti di colore a macchie o diffusi
+579_235	disease	eruzione maculopapulosa			macchie di colore rossastro
+143_322|192_1662	disease	esantema allergico	esantema		eruzione cutanea di natura allergica|reazione allergica
+590_139	disease	esantema pustoloso	esantema		eruzione cutanea rossa con croste e rigonfiamenti sotto la pelle e vescicole
+78_1083	disease	esantema pustoloso acuto generalizzato	esantema pustoloso		eruzione della pelle con piccole raccolte di pus
+97_1554	disease	esofagea			infezione alla bocca o alla gola
+6_1750	disease	esofagite			infiammazione dell'esofago|infiammazione e lesioni della mucosa dell'esofago
+301_1956|178_1802|265_1775	disease	esofagite da reflusso	esofagite		infiammazione causata dal ritorno di acido dallo stomaco alla bocca|infiammazione dell'esofago
+387_278	body_part	espettorato			sostanza che si espelle tossendo
+143_322	body_part	estremità			mani e piedi
+393_584|20_585	body_part	estrogeni			ormoni|ormoni sessuali femminili|sostanze che favoriscono l'eliminazione del colesterolo attraverso la bile
+10_2006	body_part	etinilestradiolo			ormoni
+535_220	medication	etolbutamide			derivati delle sulfaniluree
+497_805	medication	everolimus			medicinali utilizzati per prevenire il rigetto da trapianto dorgano e per il cancro
+224_443	disease	extrasistoli atriali			alterazione del battito del cuore caratterizzata da una contrazione del muscolo del cuore che avviene prima del previsto e che altera la regolare successione dei battiti
+588_422	medication	ezetimibe			farmaco usato per abbassare il colesterolo
+89_1288	disease	FA			fibrillazione atriale
+400_787|376_945|244_779|397_789|249_1035|375_213|200_1038	disease	faringite			dolore alla gola|infezione della gola|infezione delle alte vie respiratorie|infezione delle vie aeree superiori|infiammazione della gola|mal di gola
+2_2089	medication	farmaci antiinfiammatori non steroidei			medicinali contro il dolore e linfiammazione
+111_1687	medication	farmaci antinfiammatori non steroidei			ibuprofene|destrano|fenilbutazone|indometacina|ketorolac|diclofenac|medicinali usati per alleviare il dolore o per fluidificare il sangue
+538_285	medication	farmaci cardioattivi			medicinali antiipertensivi
+267_2009	medication	derivati della morfina			farmaci che deprimono il sistema nervoso centrale
+160_839	medication	farmaci chiamati alcaloidi dell'ergot			medicinali per trattare l'emicrania o della pressione sanguigna bassa
+87_259	medication	farmaci immunosoppressori			farmaci che sopprimono le difese dell'organismo
+396_1994	medication	medicinali per sulfaniluree o meglitinidi			farmaci per il diabete
+38_1581	medication	farmaci serotoninergici			tramadolo
+39_163|9_1978	disease	piressia			febbre
+97_1554	medication	felodipina			medicinale usato per trattare problemi al cuore
+124_111	medication	fenfluramina			farmaco utilizzato per ridurre il peso
+124_111	medication	fenilbutazone			farmaco utilizzato per trattare il dolore e l'infiammazione
+43_167|475_327|408_1572|68_2055|163_1532|165_1534	medication	fenitoina			anticonvulsivanti|anticonvulsivi|farmaco per l'epilessia|farmaco usato per il trattamento dell'epilessia|farmaco usato per trattare le crisi epilettiche|farmaco usato per trattare l'epilessia|farmaco usato per il trattamento di crisi epilettiche|farmaco utilizzato per il trattamento di convulsioni|farmaco utilizzato per trattare le convulsioni
+475_327|202_225	medication	fenobarbital			farmaco per l'epilessia|farmaco utilizzato anche per l'epilessia
+68_2055	medication	fenobarbitale			farmaco usato per il trattamento dell'epilessia
+529_816|163_1532	medication	fenobarbitone			farmaci usati contro l'epilessia|farmaco utilizzato per il trattamento dell'epilessia|farmaco usato per il trattamento di crisi epilettiche
+530_2015|37_740	disease	fenomeno di raynaud			dolore alle dita di mani e piedi che diventano prima biancastre poi bluastre ed infine rossastre|dolore alle dita di mani e piedi che diventano prima biancastri|dolore alle dita e dita fredde|intorpidimento e crampi delle dita seguiti da sensazione di calore e/o dolore
+2_2089|442_1385	medication	fenotiazina			farmaco usato per trattare i problemi mentali|antipsicotici
+328_1551|165_1534	medication	fentanil			farmaco usato come anestetico|farmaco utilizzato come anestetici
+124_111|448_1486	medication	fibrati			farmaco utilizzato per abbassare livelli elevati di colesterolo|farmaco per abbassare i livelli di grassi nel sangue
+237_96	disease	fibrillazione			contrazioni disordinate e ad altissima frequenza degli atrii una parte del cuore
+24_1417|119_276	disease	fibrillazione atriale	fibrillazione		anormalità del ritmo cardiaco|battito cardiaco molto rapido e irregolare|ritmo cardiaco irregolare anomalo
+326_390|201_1529	disease	fibrillazione ventricolare	fibrillazione		alterazioni del ritmo del cuore|battito cardiaco irregolare|mancanza di coordinamento delle pulsazioni dei ventricoli del cuore
+355_1372	medication	fibrinolitici			streptochinasi|urochinasi|alteplase
+348_442	disease	fibrosi polmonare			cicatrizzazione dei polmoni o malattie polmonari
+232_1666	disease	fistola			complicazioni dei diverticoli dell'intestino crasso
+237_96	disease	flatulenza			eccessiva formazione di gas nello stomaco o nell'intestino|eccessivo gas nello stomaco o nell'intestino
+297_338|217_337|531_977|512_1604|576_951|338_2136	disease	flebite			infezione a livello delle vene|infiammazione della vena|infiammazione della vena in cui il medicinale viene somministrato|infiammazione delle vene|infiammazione di una vena con o senza formazioni di coaguli di sangue|ostruzione di una vena
+112_1112	medication	fluconazolo			farmaco usato per il trattamento di infezioni micotiche|farmaco usato per trattare le infezioni fungine
+411_878|118_793	disease	fluorochinoloni			ciprofloxacina|norfloxacina|levofloxacina|moxiflaxacina
+124_111	medication	fluoxetina			farmaco utilizzato per trattare la depressione
+414_596|537_1700	disease	flushing			arrossamento del viso|sensazione di calore dovuta a problemi di circolazione del sangue
+224_443|237_96	disease	flutter atriale			alterazione del battito del cuore che diventa irregolare ed eccessivamente veloce|contrazioni disordinate e ad altissima frequenza degli atrii una parte del cuore
+112_1112|178_1802	medication	fluvoxamina			antidepressivo|farmaco usato per trattare depressione e altre malattie psichiatriche
+140_880|30_50|350_883	disease	follicolite			infezione del follicolo pilifero|infiammazione dei follicoli piliferi|infiammazione e gonfiore delle radici dei peli|infiammazione e/o gonfiore della radice del pelo|infiammazione o gonfiore alla radice dei capelli
+10_2006	medication	fosaprepitant			medicinale contro il vomito
+234_1317|158_275|78_1083	body_part	fosfatasi alcalina			parametri del fegato nel sangue|sostanza presente nel sangue|sostanze nel sangue
+15_1269|398_1815	disease	fotofobia			eccessiva sensibilità alla luce|sensibilità alla luce
+292_1923|15_1269|195_15|598_503|497_805	disease	fotosensibilità			aumento della sensibilità al sole|aumento della sensibilità della pelle al sole o ai raggi ultravioletti|aumento della sensibilità della pelle al sole o ai raggio ultravioletti|aumento della sensibilità della pelle alla luce solare o alle lampade solari|eccessiva sensibilità alla luce|reazione anomala ed esagerata della pelle alla luce|reazione del sistema immunitario alla luce solare|reazione della pelle dopo esposizione alla luce solare|reazioni a seguito di esposizione della pelle alla luce|reazioni di sensibilità alla luce
+224_443|497_805	disease	fotosensibilizzazione			reazioni allergiche alla luce|reazioni di sensibilità alla luce
+200_1038	disease	funzionalità epatica anormale			anormale funzionamento del fegato
+317_1702	disease	funzione renale compromessa			problemi ai reni|ridotta funzionalità dei reni
+357_619|9_1978	medication	furosemide			diuretici potenti|farmaco utilizzato in caso di ritenzione di liquidi
+417_31	disease	GAD			Disturbo d'Ansia Generalizzata
+267_2009	disease	galattorrea			secrezione anormale di latte o di liquido lattescente dalle mammelle in donne che non stanno allattando o negli uomini
+530_2015	disease	gangrena			pelle bluastra o verdastra delle mani o dei piedi
+478_618|361_2139	disease	gastralgia			dolore allo stomaco
+244_779|52_479|275_91|6_1750|560_1957|301_1956	disease	gastrite			disturbi allo stomaco|infiammazione dello stomaco|infiammazione|infiammazione allo stomaco|infiammazione del rivestimento dello stomaco|infiammazione della parete interna dello stomaco|infiammazione della superficie interna dello stomaco|infiammazione dello stomaco e dell'intestino
+301_1956	disease	gastroduodenite			infiammazione dello stomaco e dell'intestino
+244_779|546_36	disease	gastroenterite			infezione dello stomaco e/o intestino|infezione dello stomaco e dell'intestino|infiammazione dell'apparato digerente|infiammazione del tratto gastrointestinale che coinvolge sia lo stomaco che l'intestino tenue|infiammazione dello stomaco e dell'intestino
+155_108|99_34	medication	gemfibrozil			farmaco usato per abbassare il colesterolo|farmaco usato per ridurre i livelli di colesterolo|farmaco usato per ridurre il colesterolo
+100_922	body_part	ggt			enzimi epatici
+331_547|563_887	body_part	paratiroidi			ghiandole poste nel collo|ghiandole presenti nel collo
+592_763	disease	ginecomastia			ingrossamento del petto negli uomini|ingrossamento del seno negli uomini|sviluppo delle mammelle nell'uomo|sviluppo eccessivo della mammella maschile|ingrandimento del petto negli uomini|ingrossamento della mammella negli uomini|ingrossamento delle mammelle nei maschi|ingrossamento delle mammelle o dolorabilità mammaria|ingrossamento e/o dolorabilità del petto|ingrossamento indolenzimento mammario|sviluppo anomalo di mammelle nell'uomo|sviluppo di mammelle negli uomini
+370_1296|569_66|77_857	disease	glaucoma			aumentata pressione allinterno dell'occhio|aumento della pressione dell'occhio con possibile peggioramento della vista|aumentata pressione nell'occhio|danneggiamento del nervo ottico causato dall'aumento della pressione oculare|danni al nervo ottico|elevata pressione oculare|pressione alta dell'occhio
+143_322	body_part	glicemia			quantità di zuccheri nel sangue
+304_806|205_2023	disease	glossite			dolore alla lingua|infiammazione della lingua|infiammazioni della lingua
+124_111	medication	glucagone			farmaco utilizzato per trattare livelli molto bassi di zucchero nel sangue
+368_1180	body_part	glucocorticoidi			ormoni steroidei
+114_1150	medication	glucocorticosteroidi			farmaco usato per trattare l'infiammazione
+120_470	disease	gonorrea			infezione sessualmente trasmissibile
+521_1946	disease	gotta			malattia infiammatoria delle articolazioni
+91_2038	disease	granulocitopenia			carenza temporanea dei globuli bianchi
+507_1335	disease	granulomatosi di Wegener			infiammazione dei vasi sanguigni
+9_1978|557_419	disease	cefalea			Mal di testa
+18_817|567_1214|319_781|54_1210	disease	insufficienza epatica			malattia del fegato|compromissione delle funzioni del fegato|diminuzione della funzionalità del fegato|grave malattia del fegato|problemi al fegato|problemi al fegato che raramente portano a morte|problemi di vario tipo al fegato|scarsa funzionalità del fegato|disordini epatici|gravi problemi al fegato
+187_411	disease	gravidanza ectopica			embrioni impiantati al di fuori dell'utero
+187_411	disease	gravidanza multipla			gravidanza gemellare
+155_108	medication	grazoprevir			farmaco usato per trattare le infezioni da virus dell'epatite C|farmaco usato per trattare l'infezione da virus dell'epatite C
+333_1718	body_part	HDL			grassi nel sangue
+364_385|126_1131	disease	helicobacter pylori			batterio associato all'ulcera dello stomaco e del duodeno|H. pylori è un batterio che colonizza lo stomaco
+346_291	disease	herpes zoster			fuoco di sant'antonio
+497_805|554_86|291_745	medication	ibuprofene			farmaci antinfiammatori non steroidei utilizzati per alleviare dolore e infiammazione|medicinale per il reumatismo o per il dolore a lungo termine chiamati fans|medicinale usato per il dolore e l'infiammazione
+421_1839	disease	ictus			difficoltà nel parlare o di respirazione
+229_1547	medication	idroclorotiazide			diuretico
+229_1547	medication	idroclortiazide			diuretico
+244_779	medication	idrossiclorochina			farmaco usato contro la malaria e per trattare alcune malattie reumatiche
+87_259	body_part	ileo			intestino tenue
+370_1296|525_2014|146_1383|185_870|16_1591	medication	IMAO			Inibitori della Monoamino Ossidasi|Inibitori delle monoaminoossidasi|Inibitori non selettivi delle monoammino-ossidasi|inibitori della monoaminossidasi|inibitori delle monoaminossidasi
+549_407	disease	immunosoppressione			sistema immunitario non funziona come dovrebbe
+30_50	disease	impetigine			infezione superficiale delle pelle
+497_805|468_1094	disease	impotenza			disturbi sessuali|disturbi sessuali nell'uomo
+442_1385	disease	inappropriata secrezione di adh			aumento della quantità di urine escrete
+75_2025	disease	incontinenza			involontaria perdita dell'urina|perdita involontaria di urina|soffre di perdita urinaria
+187_411	disease	incontinenza cervicale	incontinenza		incapacità a contenere in utero una gravidanza
+377_1271	disease	incontinenza delle urine	incontinenza		incapacità di controllare il passaggio di urina
+198_1284	disease	incontinenza urinaria	incontinenza		incapacità di controllare e trattenere lurina|incapacità di trattenere l'urina|minzione involontaria|mancato controllo della minzione|perdite di urina|problemi a trattenere l'urina
+244_779	disease	indigestione			disturbi allo stomaco
+497_805|291_745	medication	indometacina			farmaci antinfiammatori non steroidei utilizzati per alleviare dolore e infiammazione|medicinale usato per il dolore e l'infiammazione
+87_259	disease	infarto acuto del miocardio			attacco cardiaco
+532_282	disease	infarto del cuore			attacco di cuore
+583_1912|162_1668	disease	infarto del miocardio			accidenti cerebrovascolari|attacco cardiaco|attacco di cuore|quando non arriva più sangue al cuore
+117_303	disease	infarto miocardiale			attacco cardiaco
+13_1907	disease	infarto miocardico			attacco di cuore
+117_303	disease	infarto miocardico acuto	infarto miocardico		attacco cardiaco
+233_620	disease	infarto retinico			perdita della vista e problemi alla retina
+579_235	disease	infezione da candida			fungo|mughetto nella bocca
+257_881	disease	infezione dei follicoli piliferi causate da funghi			foruncoli
+534_989	disease	infezioni fungine			mughetto
+265_1775|318_1981	disease	pancolite			infiammazione del colon
+272_2000|510_134	disease	infiammazione del fegato			anormalità nei test di funzione epatica oppure epatite|può provocare fastidio addominale|si può constatare tramite il giallore della pelle o degli occhi|si può verificare pelle gialla o occhi gialli|medicinali usati per il trattamento dell'epatite c
+594_170	disease	infiammazione del pancreas			forte dolore allo stomaco
+594_170	disease	pancreatine			infiammazione del pancreas
+594_170	disease	pancreatiti			infiammazione del pancreas
+7_212	disease	insuficienza renale acuta			infiammazione del rene
+175_1006	disease	infiammazione dell'intestino crasso			colon
+165_1534	disease	infiammazione di organi interni			fegato|reni e intestino crasso
+535_220	disease	infiltrati polmonari			alterazioni dei polmoni|alterazioni radiologiche dei polmoni
+348_442	disease	infiltrazione			accumulo di liquido nella pelle e nei tessuti
+39_163	disease	infiltrazione polmonare			infiammazione dei polmoni
+14_1137	medication	inibitore selettivo della ricaptazione della serotonina			fluoxetina|fluvoxamina
+473_1670	medication	inibitori del reuptake della serotonina			medicinali usati per la cura della depressione e dei disturbi dell'ansia
+480_334	medication	inibitori dell'aggregazione piastrinica			medicinali che rendono il sangue più fluido
+500_1929|507_1335	medication	inibitori della cox-2			farmaci che riducono l'infiammazione|farmaci usati per attenuare il dolore|medicinali che riducono linfiammazione che possono essere usati per aiutare ad alleviare il dolore|medicinali che riducono l'infiammazione e che possono essere usati per alleviare il dolore|medicinali che riducono l'infiammazione
+93_2138|338_2136	medication	inibitori della fosfodiesterasi			medicinale usato per la disfunzione erettile|medicinali per la disfunzione erettile
+138_875	medication	inibitori delle lipasi			medicinali che diminuiscono i grassi nel sangue
+185_870	medication	inibitori delle monoaminoossidasi			moclobemide
+16_1591	medication	inibitori delle monoaminossidasi			medicinali per trattare la depressione|medicinali per il trattamento della depressione
+151_59	medication	inibitori potenti del CYP3A4			medicinali che aumentano la quantità di budesonide nel sangue
+241_160|594_170|16_1591	medication	ssri			inibitori selettivi del reuptake della serotonina|inibitori selettivi del riassorbimento della serotonina|inibitori selettivi della ricaptazione della serotonina|farmaci antidepressivi
+241_160|16_1591|110_1730|232_1666	medication	ssris			inibitori selettivi del reuptake della serotonina|inibitori selettivi della ricaptazione della serotonina
+16_1591	medication	inibitori selettivi della ricaptazione della serotonina			medicinali contro la depressione|fluoxetina
+115_318	disease	diabete			alti livelli di zucchero nel sangue
+274_1821	disease	inspessimento del solco oculare			occhi che appaiono infossati
+130_2080|525_2014|211_1724|507_1335|237_96	disease	insufficienza cardiaca			battito cardiaco lento o altro disturbo al cuore|funzionalità del cuore insufficiente|incapacità del cuore di fornire un quantitativo di sangue adeguato per le esigenze dell'intero organismo|incapacità del cuore di pompare sangue in maniera efficiente|problemi al cuore|ridotta funzionalità del cuore|indebolimento della funzione cardiaca|perdita della capacità del cuore di pompare abbastanza sangue ai tessuti del corpo
+153_1230|211_1724	disease	insufficienza cardiaca congestizia	insufficienza cardiaca		grave diminuzione del funzionamento del cuore|grave insufficienza del cuore|grave insufficienza del funzionamento del cuore|problemi al cuore
+426_330	disease	insufficienza coronarica			riduzione del flusso di sangue nelle arterie coronarie
+207_1720	disease	insufficienza epatica acuta	insufficienza epatica		problemi al fegato
+211_1724	disease	insufficienza epatica acuta fatale	insufficienza epatica		grave epatotossicità
+558_1734	disease	insufficienza midollare			problemi nella produzione delle cellule del sangue
+450_394|269_173|25_1913|418_703|523_884	disease	insufficienza renale			disturbi renali|malattia dei reni|problema ai reni|quando le urine sono scarse o assenti|riduzione della funzionalità dei reni|grave malattia dei reni|malattia grave dei reni|gravi problemi ai reni|riduzione della funzionalità del rene|ridotta funzionalità dei reni
+376_945|83_1197|25_1913	disease	insufficienza renale acuta	insufficienza renale		compromissione della funzione renale|escrezione urinaria ridotta o nulla|gravi problemi ai reni|insufficiente funzionalità dei reni|ridotta produzione di urina e accumulo di liquidi e scorie nell'organismo|problema ai reni|rapida riduzione della funzione dei reni|riduzione del funzionamento dei reni|infiammazione del rene che influenza la sua struttura e funzione
+550_786	disease	insufficienza renale grave	insufficienza renale		gravi problemi ai reni
+224_443	disease	insufficienza respiratoria grave			difficoltà a respirare
+490_1570	disease	insufficienza surrenalica			incapacità delle ghiandole surrenali di produrre una quantità sufficiente di cortisolo
+444_1940|326_390	medication	insulina			medicinale per il controllo del ritmo cardiaco o per il diabete|medicinale utilizzato per abbassare i livelli di zucchero nel sangue
+327_813	disease	interferenza con la funzionalità dell'asse ipofisi surrene			disturbi alla regolazione della produzione di ormoni da parte del surrene
+223_1396	body_part	intestino			parte superiore del tubo digerente
+105_858	disease	intorpidimento			diminuzione della sensibilità
+301_1956	disease	iperacidità			aumento dell'acido presente nello stomaco
+438_58|362_865	disease	iperattività psicomotoria			aumento dell'attività mentale e dei comportamenti|aumento dell'attività fisica e mentale|eccessiva attività motoria con concomitante ansia mentale
+207_1720	disease	iperbilirubinemia			aumento della quantità di alcune sostanze nel sangue
+523_884|168_1187|144_850	medication	ipercalcemia			aumento di calcio nel sangue|eccesso di calcio nel sangue|troppo calcio nel sangue|livelli anormali di liquidi corporei ed elettroliti
+170_1151	disease	ipercalcinuria			alti livelli di calcio nelle urine
+138_875|196_142	disease	ipercalciuria			aumento del calcio nell'urina|aumento di calcio nelle urine|livelli di calcio in eccesso nelle urine
+6_1750|558_1734	disease	ipercinesia			aumento dei movimenti|movimenti involontari e non coordinati
+558_1734	disease	ipercloridria			eccessiva produzione di acido nello stomaco
+97_1554|313_1847	disease	ipercolesterolemia			aumento dei livelli d colesterolo e di grassi nel sangue|aumento dei livelli di colesterolo|aumento dei livelli di colesterolo nel sangue|aumento del colesterolo nel sangue|aumento del colesterolo totale ldl e vldl nel sangue|aumento della quantità di colesterolo grasso presente nel sangue
+493_420|365_7	disease	ipercolesterolemia familiare omozigote	ipercolesterolemia		livelli elevati di colesterolo di origine ereditaria|malattia ereditaria
+327_813	disease	ipercorticismo			eccessiva produzione di ormoni da parte delle ghiandole surrenali
+96_454	disease	iperemia congiuntivale			infiammazione con arrossamento dell'occhio
+138_875	disease	iperfosfatemia			aumento del fosforo
+115_318|45_192|532_282	disease	iperglicemia			alti livelli di zucchero nel sangue|aumento degli zuccheri nel sangue|aumento dei livelli degli zuccheri nel sangue|aumento dei livelli di zuccheri nel sangue|aumento dei livelli di zucchero nel sangue|aumento del glucosio nel sangue|aumento dello zucchero nel sangue
+125_1656	disease	iperidratazione			aumento dell'acqua nell'organismo
+392_1526|211_1724|400_787	disease	iperidrosi			aumento della sudorazione eccessiva|eccessiva sudorazione|sudorazione|sudorazione aumentata in modo anormale|sudorazione eccessiva
+26_362|8_435|157_1755|6_1750	disease	iperkaliemia			alti livelli di potassio nel sangue|aumento dei livelli di potassio nel sangue|aumento dei valori di potassio|aumento del potassio nel sangue
+26_362	disease	iperlipidemia			aumento dei livelli dei lipidi
+138_875	disease	ipermagnesemia			aumento del magnesio nel sangue
+138_875	disease	ipermagnesiemia			aumento del magnesio nel sangue
+125_1656	disease	iperosmolarità			aumento della pressione osmotica del sangue
+31_548	disease	iperparatiroidismo primario			eccessiva funzionalità delle paratiroidi
+9_1978	disease	iperpiressia			febbre alta
+53_1303	disease	iperplasia prostatica benigna			ingrossamento della prostata|ingrossamento benigno della prostata
+8_435|6_1750|109_1732	disease	iperpotassiemia			aumento dei livelli di potassio nel sangue|aumento del potassio nel sangue|aumento della quantità di potassio nel sangue|aumento di potassio nel sangue
+3_55	disease	ipersensibilità			risposta immunitaria esagerata|gonfiore alla bocca e alla gola
+532_282|115_318	medication	ipertensione			pressione alta|pressione alta del sangue
+460_2164	disease	ipertensione arteriosa	ipertensione		pressione del sangue alta
+467_1268	disease	ipertensione arteriosa essenziale	ipertensione arteriosa		pressione sanguigna elevata
+348_442	disease	ipertiroidismo			disturbi della tiroide
+254_800	disease	ipertonia			aumento del tono muscolare|aumento della tensione muscolare
+40_797	disease	ipertonia spastica	ipertonia		aumento del tono e della contrazione dei muscoli
+71_2172|97_1554|211_1724	disease	ipertrigliceridemia			aumento dei grassi nel sangue|aumento dei livelli dei grassi nel sangue|aumento dei trigliceridi nel sangue|aumento dei livelli d colesterolo e di grassi nel sangue|livelli elevati di trigliceridi nel sangue
+414_596	disease	ipertrofia prostatica benigna			prostata ingrossata
+26_362|8_435|71_2172	disease	iperuricemia			alti livelli di acido urico nel sangue|aumento dei livelli di acido urico nel sangue|aumento dell'acido urico nel sangue|aumento di acido urico nel sangue
+524_98	disease	iperventilazione			aumento del numero degli atti respiratori
+138_875	disease	ipervitaminosi d			aumento della vitamina d nel sangue
+504_428	disease	ipervolemia			aumento del volume del sangue|aumento del volume di sangue circolante|aumento del volume di sangue in circolo nell'organismo|aumento della quantità di sangue in circolo
+435_299	medication	ipnotici			medicinali che inducono il sonno|omedicinali usati per indurre il sonno e che rilassano
+26_362|251_1616	disease	ipocalcemia			bassi livelli di calcio nel sangue|abbassamento dei livelli di calcio nel sangue|diminuzione dei livelli di calcio o magnesio nel sangue
+31_548	disease	ipocalcemia asintomatica	ipocalcemia		abbassamento dei livelli di calcio nel sangue senza sintomi evidenti
+548_549	disease	ipocalcemia sintomatica	ipocalcemia		abbassamento dei livelli di calcio nel sangue con sintomi
+565_1617|144_850	disease	ipocloremia			diminuzione dei livelli di sodio, cloro e potassio nel sangue|livelli anormali di liquidi corporei ed elettroliti
+143_322|532_282|124_111	disease	ipoglicemia			diminuzione del glucosio nel sangue|diminuzione dello zucchero nel sangue|livelli di zucchero nel sangue più bassi della norma|livelli molto bassi di zucchero nel sangue|livello troppo basso di zucchero nel sangue
+565_1617	disease	ipokaliemia			diminuzione dei livelli di sodio, cloro e potassio nel sangue
+144_850	disease	ipomagnesemia			livelli anormali di liquidi corporei ed elettroliti
+26_362|251_1616	disease	ipomagnesiemia			bassi livelli di magnesio nel sangue|diminuzione dei livelli di magnesio nel sangue|diminuzione del magnesio nel sangue|diminuzione della quantità di magnesio nel sangue|diminuzione dei livelli di calcio o magnesio nel sangue
+503_1618|144_850	disease	iponatremia			carenza di sodio|livelli anormali di liquidi corporei ed elettroliti
+452_1941|565_1617	disease	iponatriemia			bassi livelli di sodio nel sangue|diminuzione dei livelli di sodio nel sangue|diminuzione della quantità di sodio nel sangue|riduzione dei livelli di sodio nel sangue|riduzione dei valori di sodio nel sangue|riduzione del livello di sodio nel sangue|riduzione del sodio nel sangue|diminuzione dei livelli di sodio, cloro e potassio nel sangue
+503_1618|144_850|224_443	disease	ipopotassiemia			carenza di potassio|livelli anormali di liquidi corporei ed elettroliti|riduzione della quantità di potassio nel sangue
+387_278	disease	ipossia			carenza di ossigeno disponibile nel sangue e nei tessuti corporei
+153_1230|48_560|55_561	disease	ipotensione			abbassamento della pressione|abbassamento della pressione arteriosa del sangue|abbassamento della pressione del sangue|abbassamento della pressione sanguigna|riduzione della pressione sanguigna|bassa pressione del sangue|bassa pressione sanguigna|bassi valori di pressione del sangue|calo della pressione sanguigna|calo eccessivo della pressione|diminuzione della pressione del sangue|diminuzione della pressione sanguigna|grave abbassamento della pressione del sangue|ridotta pressione del sangue|riduzione della pressione|riduzione della pressione del sangue|bassa pressione arteriosa|pressione del sangue bassa|pressione sanguigna bassa
+442_1385|530_2015	disease	ipotensione ortostatica	ipotensione		abbassamento della pressione arteriosa|abbassamento della pressione correlata alla postura|abbassamento della pressione del sangue dopo i cambi di posizione|abbassamento della pressione del sangue nel passaggio da una posizione seduta o sdraiata a una posizione in piedi|abbassamento della pressione del sangue quando si alza rapidamente dopo essere stato seduto o sdraiato|abbassamento della pressione sanguigna al momento in cui ci si alza in piedi|abbassamento della pressione sanguigna quando passa dalla posizione orizzontale a quella eretta|bassa pressione del sangue in posizione eretta|brusco abbassamento della pressione al passaggio in posizione eretta da seduti o sdraiati|brusco calo della pressione del sangue in seguito allimprovviso passaggio dalla posizione seduta o sdraiata a quella in piedi|brusco calo della pressione sanguigna in seguito al passaggio dalla posizione seduta o sdraiata a quella eretta|brusco calo della pressione sanguigna in seguito all'improvviso passaggio dalla posizione seduta o sdraiata a quella eretta|capogiri quando ci si alza a causa di un calo di pressione|abbassamento della pressione del sangue quando ci si alza in piedi|riduzione della pressione sanguigna quando si raggiunge la posizione eretta accompagnata da sintomi vertigini/testa leggera|rapido abbassamento della pressione sanguigna|sensazione di svenimento al momento di alzarsi dalla posizione sdraiata o seduta|sensazione di testa vuota o svenimenti|sensazione di vertigine quando ci si alza velocemente causata dall'abbassamento della pressione del sangue|senso di capogiro o svenimento quando ci si alza improvvisamente|senso di vertigine o svenimento quando ci si alza improvvisamente|abbassamento della pressione del sangue quando si passa dalla posizione seduta a quella in piedi
+467_1268	disease	ipotensione posturale	ipotensione		abbassamento della pressione del sangue quando ci si alza da una posizione seduta o distesa|brusco abbassamento della pressione passando dalla posizione sdraiata a quella eretta|sensazione di vertigine quando ci si alza
+497_805	disease	ipotensione sintomatica	ipotensione		abbassamento della pressione del sangue|capogiro o sensazione di testa leggera
+239_438	disease	ipotermia			temperatura del corpo bassa
+295_1810|372_1812	body_part	iride			parte colorata dell'occhio|zona piena di liquido nella parte colorata dell'occhio
+295_1810|472_601|407_9	disease	irite			infiammazione dell'iride che è la parte colorata dell'occhio|infiammazione dell'iride|infiammazione dell'occhio|infiammazione oculare
+55_561	disease	irritazione congiuntivale			irritazione della congiuntiva
+436_105	disease	irritazione dell'occhio			occhio arrossato
+473_1670	disease	irritazione della gola			dolore alla gola
+244_779	disease	irritazione gastrica			disturbi allo stomaco
+82_1260	disease	ischemia cerebrale			ridotto afflusso di sangue al cervello|riduzione del flusso di sangue al cervello
+15_1269	disease	ischemia periferica			diminuzione del flusso di sangue|problemi di circolazione del sangue
+599_475	medication	isoniazide			farmaco usato per trattare la tubercolosi
+97_1554	medication	isradipina			medicinale usato per trattare problemi al cuore
+211_1724	disease	istoplasmosi			infezione a livello generale causata da fungo che si manifesta a livello dei polmoni
+24_1417	disease	ittero			colorazione gialla della cute e degli occhi|colorazione gialla della cute e/o degli occhi|colorazione gialla della cute o delle zone bianche degli occhi|colorazione gialla della pelle|colorazione gialla della pelle e degli occhi|colorazione gialla della pelle e del bianco degli occhi|colorazione gialla della pelle e della parte bianca degli occhi|colorazione gialla della pelle e della parte bianca degli occhi dovuta a problemi al fegato|colorazione gialla della pelle e/o degli occhi|colorazione gialla della pelle o degli occhi|colorazione gialla della pelle o del bianco degli occhi|colorazione gialla della pelle, delle mucose e dell'occhio|colorazione giallastra degli occhi e della pelle questo può indicare disturbi a livello della funzionalità del fegato|colorazione giallastra degli occhi o della pelle|colorazione giallastra della cute e delle mucose|colorazione giallastra della pelle e del bianco degli occhi|colorazione giallastra della pelle e del bianco degli occhi dovuta a problemi del fegato|colorazione giallastra della pelle e delle mucose|colorito giallo della pelle e degli occhi per grave danno epatico|ingiallimento del bianco degli occhi o della pelle|ingiallimento della cute|ingiallimento della cute e del bianco degli occhi|ingiallimento della cute e/o degli occhi|ingiallimento della cute o della parte bianca dell'occhio|ingiallimento della pelle|ingiallimento della pelle e de lla parte bianca degli occhi|ingiallimento della pelle e degli occhi|ingiallimento della pelle e del bianco degli occhi|ingiallimento della pelle e della parte bianca degli occhi|ingiallimento della pelle e/o degli occhi|ingiallimento della pelle o degli occhi|ingiallimento della pelle o del bianco degli occhi|ingiallimento della pelle o della parte bianca degli occhi|ingiallimento della pelle o della sclera degli occhi|ingiallimento della pelle o il bianco degli occhi|colorazione gialla di cute o occhi|colorazione giallastra della cute o degli occhi|colorazione giallastra della pelle|colore giallo della pelle e degli occhi|colore giallo della pelle e del bianco degli occhi|ingiallimento degli occhi e della pelle|ingiallimento della pelle e/o del bianco degli occhi|ingiallimento della pelle o della parte bianca dell'occhio
+157_1755	disease	ittero colestatico	ittero		ingiallimento della pelle e degli occhi|itterizia|problemi al fegato e colorazione gialla della pelle e del bianco degli occhi|quantità eccessiva di una sostanza chiamata bilirubina nel sangue|riduzione del flusso della bile dal fegato all'intestino con colorazione gialla della pelle
+479_1535	medication	ivacaftor			farmaco utilizzato per il trattamento della fibrosi cistica
+120_470	disease	kernittero			condizione neurologica con grave ittero
+132_1971	medication	ketamina			sostanza generalmente utilizzata come anestetico
+419_399|91_2038	medication	ketoconazolo			farmaco antifungino|medicinale per trattare le infezioni fungine
+200_1038	disease	laringite			mal di gola
+314_1225|78_1083	body_part	ldh			sostanze nel sangue
+94_459	disease	lesioni cutanee			piccole masse dure sui gomiti
+143_322	disease	lesioni cutanee psoriasiche	lesioni cutanee		chiazze rialzate|arrossate e ricoperte di squame
+91_2038|319_781	disease	letargia			stato di pigrizia o indifferenza|stato di sonnolenza|sonnolenza
+558_1734|91_2038	disease	leucocitosi			aumento dei globuli bianchi nel sangue|aumento della conta dei globuli bianchi|aumento del numero dei globuli bianchi
+97_1554|319_781|400_787|537_1700|531_977	disease	leucopenia			alterazione dei livelli dei globuli bianchi|alterazioni del numero dei globuli bianchi|alterazioni nei globuli bianchi|alterazioni nel numero delle cellule del sangue|alterazioni nel numero di globuli bianchi|diminuzione dei livelli dei globuli bianchi del sangue|riduzione dei livelli dei globuli bianchi nel sangue
+432_314	disease	libido			aumento del desiderio sessuale
+558_1734	disease	linfangite			infiammazione dei vasi linfatici
+203_1719	disease	linfoadenopatia			gonfiore dei linfonodi|rigonfiamento dei linfonodi
+409_860	body_part	linfociti			tipi di globuli bianchi
+403_937|181_219|22_934	disease	linfocitosi transitoria			alterazione del numero di globuli bianchi|alterazioni del numero di cellule del sangue|anomalie passeggere dei livelli di cellule sanguigne del sistema immunitario|aumento dei livelli dei globuli bianchi
+415_208	disease	linfoma epatosplenico a cellule t			tipo di linfoma
+452_1941	medication	lisinopril			ACE inibitore|inibitore
+228_480|503_1618|442_1385|537_1700	medication	litio			farmaco stabilizzatore dell'umore|farmaco usato per alcuni tipi di depressione|farmaco usato per alcune forme di depressione|farmaco usato per i disturbi dell'umore|farmaco usato per il trattamento della mania o della depressione|farmaco usato per trattare alcune condizioni psichiatriche|farmaco usato per trattare disturbi dell'umore|farmaco usato per trattare la depressione|farmaco utilizzato per trattare i disturbi della mente|farmaco utilizzato per il trattamento di alcune malattie psichiatriche
+195_15|232_1666|228_480	disease	lombalgia			dolore di schiena|dolore alla schiena|mal di schiena
+155_108	medication	lomitapide			farmaco usato per trattare una condizione genetica di colesterolo grave e rara
+163_1532	medication	losartan			farmaco usato per il trattamento dell'ipertensione|farmaco utilizzato per il trattamento dell'ipertensione pressione sanguigna alta|farmaco utilizzato per il trattamento dell'ipertensione – pressione sanguigna alta
+287_744	disease	lupoide			malattia in cui il sistema immunitario produce autoanticorpi che attaccano la pelle e le articolazioni|malattia in cui il sistema immunitario produce autoanticorpi che attaccano principalmente la pelle e le articolazioni
+537_1700	disease	lupus eritematoso			lupus
+59_1690	disease	lupus eritematoso acuto disseminato	lupus eritematoso		malattia autoimmune che determina infiammazione e danni alle articolazioni
+2_2089	disease	lupus eritematoso cutaneo	lupus eritematoso		malattia cronica di natura autoimmune
+466_903|96_454	disease	lupus eritematoso sistemico	lupus eritematoso		condizione allergica|gonfiore e arrossamento della pelle con febbre e dolori articolari|infiammazione cronica di tipo autoimmune a carico di diversi organi
+96_454	disease	les			lupus eritematoso sistemico
+317_1702	disease	rash maculopapulare	rash	rash maculo papulare	irritazione della pelle
+403_937	medication	magnesio			medicinale utilizzato per il trattamento di problemi allo stomaco
+194_696	disease	malattia da iga lineari			filo di perle
+546_36	disease	malattia da reflusso gastro esafageo			bruciore di stomaco
+101_942	disease	malattia da siero			muscoli doloranti
+291_745	disease	malattia del cuore			difficoltà di respirazione e/o gonfiore alle caviglie se si è affetti da scompenso cardiaco|gonfiore alle caviglie se si è affetti da scompenso cardiaco
+461_297|152_249|450_394|558_1734|339_1976|52_479	disease	morbo di crohn			malattia dell'intestino|infiammazioni croniche dell'intestino|infiammazione dell'intestino|malattia infiammatoria croniche dell'intestino|malattia infiammatoria intestinali di lunga durata|patologia infiammatoria dell'intestino
+415_208	disease	Malattia di Crohn			malattia infiammatoria intestinale|malattia infiammatoria cronica dell'intestino
+476_739	disease	malattia di raynaud			torpore e spasmo alle dita che è accompagnato da calore e dolore
+346_291	disease	malattia epatica cronica con accumulo di grasso			fegato grasso
+237_96	disease	malattia polmonare interstiziale			difficoltà a respirare|problemi polmonari
+96_454	disease	malattia polmonare ostruttiva cronica			difficoltà a respirare e/o tosse di lunga durata
+91_2038	disease	mania			eccitazione emotiva
+38_1581	disease	manifestazioni emorragiche			sanguinamenti a carico del tratto gastrointestinale ed altri sanguinamenti a livello cutaneo o mucoso
+357_619	medication	mannitolo			diuretico potente
+427_866	medication	mao			inibitore della monoamino ossidasi
+455_1384	medication	mao b			inibitori irreversibili della monoamino-ossidasi di tipo b
+525_2014	medication	mao inibitori			inibitori della monoaminossidasi
+579_235	medication	medicinali a base di ergot			farmaco usato contro la depressione
+403_937	medication	antiacidi contenenti idrossido di alluminio	antiacidi		medicinali utilizzati per il trattamento di problemi allo stomaco
+28_1191	medication	medicinali anticoagulanti			farmaco usato per prevenire o trattare la coagulazione del sangue
+555_1715	medication	sapropterina			farmaco usato per il trattamento di una malattia chiamata fenilchetonuria
+411_878	medication	stronzio			farmaco usato per l'osteoporosi
+2_2089|185_870	medication	meflochina			farmaco usato per la malaria|medicinale contro la malaria
+187_411	disease	melanoma			tumore della pelle
+157_1755|110_1730	disease	melena			sangue nelle feci
+222_135	disease	meningioma			tumore cerebrale solitamente benigno
+97_1554	disease	meningite criptococcica			infezione ai tessuti che rivestono il cervello
+477_261|18_817	medication	metadone			farmaco usato per alleviare il dolore e come parte del trattamento nei programmi di disintossicazione dalla tossicodipendenza|farmaco usato per il trattamento del dolore|farmaco utilizzato per alleviare il dolore e nei programmi di disintossicazione dalla tossicodipendenza
+535_220	disease	metaemoglobinemia			accumulo di una quantità anomala di emoglobina nel sangue
+468_1094	medication	metoprololo			farmaco usato per il trattamento di problemi del cuore
+178_1802|9_1978	medication	metotressato			farmaco usato per trattare malattie autoimmuni e tumori|farmaco usato nel trattamento di alcune forme tumorali
+498_196	medication	metotrexato			farmaco usato per il trattamento delle artriti reumatoidi e la cura del cancro|farmaco usato per la soppressione del sistema immunitario e spesso utilizzato nel trattamento dell'artrite reumatoide
+112_1112	disease	metrorragia			sanguinamento mestruale irregolare|sanguinamento uterino ad intervalli irregolari
+26_362|9_1978|126_1131|25_1913|15_1269|455_1384|367_1608	disease	mialgia			dolore ai muscoli|dolore ai muscoli e alle articolazioni|dolore ai muscoli ed alle articolazioni|dolore articolare e dolore muscolare|dolore dei muscoli|dolore muscolare|dolore muscolare e delle articolazioni
+251_1616	disease	miastenia			problema ai muscoli
+400_787|244_779|570_834	disease	miastenia grave	miastenia		debolezza muscolare|disturbi ai muscoli
+149_273|401_255	disease	miastenia gravis	miastenia		malattia che provoca debolezza muscolare generalizzata|malattia dei muscoli
+247_152	disease	miastenia oculare	miastenia		malattia che provoca debolezza dei 2 muscoli oculari|malattia che provoca debolezza dei muscoli oculari
+194_696	medication	micofenolato mofetile			farmaco usato per prevenire il rigetto degli organi trapiantati
+97_1554	disease	micosi			infezioni causate da funghi
+28_1191	medication	midazolam			farmaco usato per alleviare l'ansia e/o disturbi del sonno
+38_1581	disease	midriasi			anomalie della visione
+50_1002	disease	mielodepressione			alterazione dei livelli di tutte le cellule del sangue
+24_1417	medication	minoxidil			farmaco per il trattamento della pressione sanguigna alta
+91_2038	disease	mioclono			contrazione muscolare
+204_391|367_1608|472_601	disease	miopatia			disturbo dei muscoli|dolore muscolare|malattia che colpisce i muscoli
+26_362|15_1269|578_1644	disease	miosite			dolore ai muscoli|dolore muscolare|infiammazione dei muscoli
+112_1112|442_1385|455_1384	medication	moclobemide			antidepressivo|farmaco usato per il trattamento della depressione|farmaco per il trattamento della depressione
+181_219	disease	moniliasi vaginale			infezione da funghi a livello vaginale|infezione della vagina causata da un fungo
+397_789|409_860	body_part	monociti			cellule del sangue|tipo di globuli bianchi
+44_631	disease	disordini del movimento			movimenti involontari
+5_895	medication	mra			antagonisti del recettore dei mineralcorticoidi
+223_1396	disease	mrge			malattia da reflusso gastroesofageo
+131_588|397_789	disease	mughetto			infezione della vagina|infezione da lieviti
+211_1724	medication	naloxegol			farmaco per la costipazione causata dall'assunzione di antidolorifici oppiacei
+8_435	medication	narcotici			sostanze che riducono le attività del cervello
+102_1876|206_277	disease	nausea			sensazione di malessere|stato di malessere
+408_1572	medication	nebivololo			farmaco usato per il trattamento dei disturbi del cuore
+373_954|194_696|8_435|573_780|74_268|503_1618	disease	necrolisi epidermica tossica			bolle|distacco della pelle|grave lesione della pelle caratterizzata da irritazione della pelle|reazione allergica della pelle|reazione cutanea|reazione della pelle
+567_1214	disease	necrolisi tossica epidermica			eruzioni bollose o esfoliazione della pelle
+355_1372	disease	necrosi della cute			gravi lesioni cutanee con infiammazione
+54_1210|550_786	disease	necrosi epatica			gravi problemi al fegato|morte delle cellule del fegato|morte di cellule del fegato|problemi al fegato
+532_282	disease	necrosi papillare renale			grave danno ai rene
+112_1112|442_1385	medication	nefazodone			antidepressivo|farmaco usato per trattare la depressione
+378_935	disease	nefrite interstiziale			gravi problemi ai reni|problemi ai reni
+450_394	disease	nefrite interstiziale acuta	nefrite interstiziale		disturbi renali
+22_934	disease	nefrite interstiziale reversibile	nefrite interstiziale		problemi ai reni
+376_945	disease	nefrite tubulo interstiziale			compromissione della funzione renale
+138_875|47_423	disease	nefrocalcinosi			accumulo di calcio nei reni|eccessivo deposito di calcio nei reni
+327_813	disease	negativizzazione del bilancio di azoto			aumento dell'eliminazione delle proteine
+469_64|397_789|7_212	medication	nelfinavir			farmaco usato per trattare il virus dell'HIV|farmaco usato per trattare l'HIV|farmaco usato per il trattamento dell'HIV|farmaco utilizzato nella terapia dell'hiv
+599_475	medication	neomicina			antibiotico usato prima della chirurgia all'intestino
+472_601	disease	neurite			infiammazione dei nervi compresi quelli degli occhi
+472_601|187_411	disease	neurite ottica	neurite		infiammazione dei nervi degli occhi|infiammazione del nervo ottico
+30_50	disease	neurodermite			eczema costituzionale
+111_1687|461_297	medication	neurolettici			clorpromazina|sostanze utilizzate nel trattamento dei disturbi mentali|farmaci depressivi del sistema nervoso centrale
+3_55|472_601|329_1081|535_220|78_1083	disease	neuropatia			disturbi sensoriali alle mani e ai piedi|intorpidimento e dolore|intorpidimento o dolore|intorpidimento e/o debolezza delle estremità|malattia dei nervi|lesioni del sistema nervoso
+39_163|493_420|211_1724|578_1644|329_1081	disease	neuropatia periferica	neuropatia		danno al sistema nervoso periferico che si manifesta con intorpidimento o debolezza di braccia e gambe|danno alle terminazioni nervose periferiche|disfunzione di uno o più nervi periferici|disturbi ai nervi|infiammazione dei nervi|intorpidimento e/o debolezza delle estremità
+224_443	disease	neuropatia periferica sensomotoria	neuropatia 		intorpidimento di mani e piedi
+397_789|184_231	body_part	neutrofili			cellule del sangue|importanti nella lotta alle infezioni
+97_1554|19_998|102_1876|577_115|537_1700|50_1002|531_977|118_793	disease	neutropenia			alterazione dei livelli dei globuli bianchi|basso numero di globuli bianchi nel sangue|basso numero di globuli bianchi|calo del numero di globuli bianchi|diminuzione dei neutrofili|diminuzione del numero dei globuli bianchi|diminuzione del numero di globuli bianchi|diminuzione del numero di un tipo di globuli bianchi del sangue chiamati neutrofili|diminuzione di alcuni tipi di globuli bianchi|diminuzione di un certo tipo di globuli bianchi|riduzione del numero dei globuli bianchi|riduzione del numero di globuli bianchi del sangue|riduzione del numero di un tipo di globuli bianchi del sangue chiamati neutrofili|numero di globuli bianchi molto basso|diminuzione dei livelli dei globuli bianchi del sangue|diminuzione di un certo tipo di globuli bianchi sensibili alle infezioni|diminuzione di alcune cellule del sangue|riduzione del numero di alcuni tipi di globuli bianchi|riduzione dei livelli dei globuli bianchi nel sangue|riduzione del numero di neutrofili
+258_1120	medication	nevirapina			farmaco usato per trattare l'HIV
+518_159	disease	nevriti			malattia infiammatoria dei nervi
+270_1221	disease	nicturia			aumento della necessità di urinare
+97_1554	medication	nifedipina			medicinale usato per trattare problemi al cuore
+245_1769	disease	nistagmo			movimenti rapidi e incontrollati degli occhi|movimento involontario degli occhi|movimento rapido e ripetuto degli occhi
+414_596	medication	nitrati			farmaco utilizzato per trattare il dolore al petto
+20_585	medication	nitrendipina			antipertensivo
+361_2139	medication	nitrofurantoina			farmaco utilizzato per le infezioni urinarie
+10_2006	body_part	noretindrone			ormoni
+328_1551|165_1534	medication	nortriptilina			farmaco usato come antidepressivo|farmaco utilizzato come antidepressivi
+210_1037	disease	oculorotazione			occhi con movimenti circolatori non controllati
+193_244	disease	ohss			sindrome da iperstimolazione ovarica
+286_1544	medication	olaparib			farmaco usato per il trattamento del carcinoma ovarico
+6_1750|111_1687|25_1913	disease	oliguria			diminuzione dell'escrezione di urina|diminuzione dell'urina prodotta|diminuzione della necessità di urinare|diminuzione della quantità di urina|diminuita escrezione urinaria|ridotta quantità di urine|necessità di urinare spesso e successivamente riduzione delle urine fino scomparsa|urina assente
+112_1112	medication	omeprazolo			farmaco usato per il trattamento delle ulcere gastriche|farmaco usato per trattare le ulcere dello stomaco
+442_1385	medication	onefazodone			farmaco usato per trattare la depressione
+97_1554	disease	onicomicosi			infezioni delle unghie
+461_297	medication	oppiacei			farmaci depressivi del sistema nervoso centrale
+114_1150	medication	orlistat			farmaco usato per il trattamento dell'obesità
+91_2038	body_part	ormone antidiuretico			ormoni che aiutano i reni e il corpo a conservare la giusta quantità di acqua
+400_787	disease	dolore orofaringeo			dolore alla gola
+515_1504	disease	orticaria cronica idiopatica	orticaria		reazione allergica cutanea di tipo cronico
+581_13|118_793|400_787|573_780	disease	osteoartrite			artrite delle articolazioni|dolori e rigidità alle articolazioni|infiammazione alle articolazioni|malattia articolare degenerativa|malattia degenerativa articolare
+232_1666	disease	osteoartrosi			malattie degenerative che interessano le articolazioni
+523_884	disease	osteodistrofia renale			malattia delle ossa che si manifesta in presenza di una malattia cronica dei reni
+138_875	disease	osteomalacia			ossa deboli e molli
+590_139	disease	osteomielite			infezione delle ossa e delle articolazioni
+571_535	disease	osteonecrosi			danno osseo nella mandibola/mascella
+43_167|128_536	disease	osteoporosi			assottigliamento delle ossa che possono indebolirsi|assottigliamento delle ossa che potrebbe diminuire la loro resistenza|assottigliamento delle ossa che potrebbe indebolirsi|fragilità delle ossa|fragilità e perdita della massa ossea|fragilità o perdita della massa ossea|indebolimento delle ossa|perdita di massa e consistenza delle ossa|perdita del tessuto osseo|perdita densità ossea|perdita di densità ossea|perdita di massa ossea|perdita di tessuto osseo|problemi alle ossa|riduzione della densità minerale ossea|perdita di tessuto osseo che si verifica nelle donne dopo la menopausa
+482_1329	disease	ostruzione intestinale			rallentato transito del cibo nell'intestino
+531_977	disease	otite media cronica suppurativa			infezione dell'orecchio
+118_793	disease	otiti medie			infezione dell'orecchio
+28_1191	medication	paclitaxel			farmaco usato nel trattamento di tumori
+117_303|517_2125|428_439|546_36|211_1724	disease	palpitazione			attacco cardiaco|aumentata percezione del battito del cuore|battiti cardiaci accelerati o irregolari|battiti del cuore martellanti|battiti irregolari del cuore|battiti irregolari o forti|battito cardiaco accelerato|battito cardiaco accelerato, irregolare, forte|battito cardiaco forte che può essere rapido o irregolare|battito cardiaco irregolare o forte|battito cardiaco martellante e rapido|battito cardiaco veloce o irregolare|battito del cuore accelerato|consapevolezza del battito cardiaco|consapevolezza del ritmo cardiaco|forte battito cardiaco|avvertire il proprio battito cardiaco|battiti del cuore veloci o irregolari|battito cardiaco accelerato o irregolare|battito del cuore più veloce e/o irregolare|consapevolezza del battito del cuore|percezione del battito cardiaco|segni di battito cardiaco anomalo|sensazione di aumento dei battiti del cuore|sensazione di cuore che batte veloce|sensazione di sentir battere forte il cuore|sentire battere il proprio cuore|sentire il proprio battito cardiaco|percezione accentuata del battito cardiaco|percezione del proprio battito cardiaco|percezione di sentire il battito del cuore|sensazi one di battito cardiaco accelerato o irregolare|sensazione di alterazione del battito del cuore|sensazione di aumento della frequenza cardiaca|sensazione di avvertire il battito cardiaco|sensazione di avvertire il battito del cuore|sensazione di battiti cardiaci veloci o irregolari|sensazione di battito cardiaco accelerato o irregolare|sensazione di battito del cuore accelerato|sensazione di cuore in gola|battito del cuore avvertito veloce o irregolare|ritmo cardiaco accelerato|battiti veloci e/o irregolari|problemi al cuore
+517_2125|97_1554|9_1978|201_1529|122_2135|428_439|15_1269|119_276	disease	tachicardia			palpitazione|alterazioni del battito del cuore|aumento del numero dei battiti del cuore|aumento dei battiti del cuore|aumento del battito cardiaco|aumento del battito del cuore|aumento del numero di battiti del cuore|aumento della frequenza cardiaca|aumento della frequenza dei battiti cardiaci|aumento della frequenza dei battiti del cuore|aumento della frequenza dei battiti del cuore al minuto|aumento della frequenza del battito cardiaco|aumento della frequenza del battito del cuore|battito cardiaco martellante e rapido|palpitazioni aumento del battito del cuore|ritmo cardiaco irregolare anomalo
+162_1668	disease	pancitopenia			disturbi del sangue
+149_273	disease	pancreas infiammato			gravi dolori allo stomaco
+28_1191	disease	pancreatite			grave dolore nella parte superiore dell'addome|infiammazione del pancreas
+480_334	medication	papaverina			medicinale per la disfunzione erettile
+261_814	disease	papilledema			aumento della testa del nervo ottico dovuto all'aumento della pressione intracranica
+244_779|531_977|504_428|6_1750|363_1922|126_1131|91_2038|273_1624	disease	parestesia			alterata sensibilità della pelle|alterazione della sensibilità a braccia e gambe|alterazione della sensibilità degli arti o di altre parti del corpo|alterazioni della sensibilità|alterazioni della sensibilità degli arti o di altre parti del corpo|intorpidimento e sensazione di formicolio|intorpidimento e/o sensazione di formicolio|intorpidimento o bruciore|alterazione della sensibilità|alterazione della sensibilità degli arti|disturbo della sensibilità di gambe e braccia o di altre parti del corpo|formicolio|formicolio a braccia e gambe|prurito o formicolio|prurito o formicolio senza causa apparente|riduzione della sensibilità|intorpidimento
+97_1554|504_428	disease	parestesie			alterazione della sensibilità alle braccia e alle gambe|alterazioni della sensibilità degli arti|alterazione della sensibilità|alterazione della sensibilità degli arti
+224_443|65_62	disease	parkinsonismo			irrequietezza|morbo di Parkinson
+224_443|7_212|204_391|319_781	disease	parosmia			alterato senso dell'olfatto|alterazione dell'olfatto|cambiamenti nel senso dell'olfatto
+8_435|327_813	disease	pemfigo			malattia bollosa della pelle|malattia della pelle caratterizzata da bolle|malattia autoimmune della pelle e delle mucose caratterizzata dalla formazione di bolle
+111_1687	medication	pentamidina			farmaco che agisce contro alcuni protozoi
+358_1751|124_111	medication	pentossifillina			farmaco usato per prevenire la formazione di coaguli di sangue nei vasi|farmaco utilizzato per aumentare la circolazione se dati in infusione endovenosa ad alte dosi
+473_1670	disease	perforazione gastrointestinale			formazione di lesioni allo stomaco o all'intestino
+228_480	disease	periartrite			malattia infiammatoria che coinvolge i tessuti di natura fibrosa che circondano un'articolazione
+388_1677	disease	periartrite scapolo-omerale	periartrite		infiammazione dei nervi e delle articolazioni
+472_601	body_part	pericardio			membrana sottile che circonda il cuore
+187_411	disease	periflebite			infiammazione del tessuto connettivo che circonda le vene
+297_338|531_977|26_362	disease	peritonite			infezione a livello dei tessuti che rivestono gli organi interni della cavità addominale e pelvica|infezione dell'addome|infezione dell'addome e della parete addominale|infiammazione della parete interna dell'addome|infiammazione dell'addome
+120_470	medication	petidina			farmaci narcotici o oppioidi
+557_419|78_1083|22_934	body_part	piastrine			componente essenziale per la coagulazione del sangue|fattore della coagulazione del sangue|tipo di cellule presenti nel sangue
+575_1893|446_377|378_935|22_934	disease	pielonefrite			infezione ai reni e alla vescica|infezione dei reni|infezione che ha raggiunto i reni|infezione dell'apparato urinario|infezioni ai reni e alla vescica|infezioni dei reni
+163_1532	medication	pimozide			farmaco utilizzato per il trattamento di disturbi mentali|farmaco utilizzato per il trattamento di malattie mentali
+538_285	body_part	pio			pressione intraoculare
+95_49	disease	pioderma			dermatosi con caratteristiche ulcere
+160_839	medication	piridostigmina			malattia che provoca debolezza muscolare
+211_1724	disease	pityriasis versicolor			infezione della pelle
+348_442	body_part	pleura			membrana che ricopre la parte esterna dei polmoni
+348_442	disease	pleurite			infiammazione della membrana che ricopre la parte esterna dei polmoni|infiammazione della pleura
+195_15	disease	pneumonite eosinofila			infiammazione polmonare
+415_208	disease	poliarterite nodosa			malattia infiammatoria che colpisce le arterie
+167_877	disease	polidipsia			aumento della sete
+400_787	disease	polimialgia reumatica			infiammazione alle articolazioni
+493_420|329_1081	disease	polineuropatia			danno ai nervi di braccia e gambe|intorpidimento e/o debolezza delle estremità
+247_152	disease	polineuropatia periferica	polineuropatia		malattia che colpisce più nervi
+490_1570	body_part	polipi nasali			noduli benigni nel naso|formazioni benigne
+69_1169	disease	poliuria			aumentata quantità di urina escreta|eliminazione di uneccessiva quantità di urina|frequente biosogno di urinare|frequente bisogno di urinare|emissione di quantità di urina superiori al normale|emissione di una quantità di urina superiore al normale
+211_1724	disease	pollachiuria			emissione con elevata frequenza di piccole quantità di urina|emissione di piccole quantità di urina con elevate frequenza|emissione frequente di piccole quantità di urina|frequente emissione di piccole quantità di urina
+507_1335|244_779|179_716|376_945|590_139	disease	polmonite			difficoltà respiratoria|infezione dei bronchi e dei polmoni|infezione dei polmoni|infezione del tratto respiratorio
+18_817	disease	polmonite interstiziale	polmonite		grave malattia dei polmoni che può portare a morte|difficoltà a respirare
+280_1892	disease	porfiria			malattia del metabolismo molto rara
+585_647|128_536|61_1211|52_479|506_2114|558_1734|6_1750|144_850	disease	porpora			alterazione del colore della pelle|arrossamento della pelle|arrossamento della pelle con sanguinamenti|lesione simile all'ematoma|macchie di colore caratteristico sulla pelle|malattia caratterizzata dalla formazione di numerose macchie emorragiche|malattia in cui la pelle assume un colore rosso per l'accumulo anomalo del sangue|malattie caratterizzate da macchie cutanee di colore rosso|rottura dei capillari sotto la pelle|rottura di capillari della pelle|sanguinamento sottocutaneo
+61_1211	disease	porpora allergica	porpora		arrossamento della pelle con sanguinamenti
+532_282	disease	porpora di schoenlein-henoch	porpora		infiammazione che colpisce i vasi sanguigni della cute
+152_249	disease	porpora trombocitopenica	porpora		alterazione della coagulazione del sangue dovuta a una riduzione delle piastrine
+415_208	disease	porpora trombocitopenica idiopatica cronica refrattaria	porpora		distruzione delle piastrine
+221_154	medication	posaconazolo			farmaco utilizzato per trattare infezioni fungine
+531_977|181_219|423_1871	disease	positività al test di coombs			alterazione dei risultati di alcune analisi del sangue|test di laboratorio utilizzato per rivelare la presenza di malattie autoimmuni|test utilizzato per rilevare la presenza di alcuni tipi di anticorpi nel sangue
+37_740	disease	positività al test per gli anticorpi antinucleo			alterazione dei valori di laboratorio per la misurazione di certe reazioni immunitarie
+287_744	disease	precipitazione di blocco cardiaco			alterazione degli impulsi che determinano il battito cardiaco
+341_42	disease	pres			sindrome da encefalopatia posteriore reversibile
+48_560	disease	pressione del sangue bassa			sensazione di svenimento quando ci si alza velocemente
+75_2025	disease	pressione pelvica			senso di pressione nel basso addome
+55_561	disease	pressione sanguigna bassa			sensazione di debolezza|sensazione di testa vuota
+15_1269	disease	priapismo			erezione dolorosa e persistente del pene|erezione dolorosa persistente del pene|erezione persistente e dolorosa|erezione prolungata e dolorosa|erezione dolorosa
+516_416|217_337|27_695|361_2139	medication	probenecid			farmaco antigottoso in grado di favorire l'eliminazione dell'acido urico|farmaco usato nel trattamento della gotta per ridurre i livelli di acido urico|farmaco usato per trattare la gotta|farmaco usato per la gotta|farmaco utilizzato per trattare i livelli elevati di acido urico
+130_2080	disease	problemi di conduzione			battito cardiaco lento o altro disturbo al cuore
+361_2139	disease	problemi neuropsichiatrici			disturbi della mente
+289_320	medication	procainamide			farmaco usato per trattare anomalie del ritmo cardiaco|farmaco usato per trattare le anomalie del ritmo cardiaco
+75_2025	disease	proctite			infiammazione dell'intestino retto
+97_1554	disease	prolungamento del qt			alterazioni del battito del cuore
+45_192	disease	prolungamento del tratto qtc			alterazione dell'elettrocardiogramma
+382_1068|78_1083|102_1876|204_391|468_1094	disease	prolungamento dell'intervallo qt			alterazione del ritmo cardiaco|alterazione del ritmo del cuore|alterazione del battito cardiaco|alterazione dell'elettrocardiogramma|disturbi del ritmo del cuore
+112_1112	medication	propafenone			farmaco usato per trattare il battito cardiaco irregolare|farmaco usato per trattare le irregolarità o le anomalie del battito cardiaco
+18_817	body_part	prostata			ghiandola che nell'uomo produce il liquido seminale
+28_1191	disease	proteine nelle urine			alterazione del test delle urine
+567_1214|54_1210	disease	proteinuria			perdita di proteine con le urine|presenza di proteine nell'urina|presenza di proteine nelle urine|presenza di sangue o proteine nelle urine
+182_232	body_part	protrombina			fattore della coagulazione
+200_1038	disease	cute pruriginosa			prurito
+521_1946	disease	pseudoporfiria			eruzione cutanea: bolle, vesciche sulla pelle
+304_806|87_259|497_805	disease	psoriasi			macchie rosse ed infiammazione|malattia cutanea caratterizzata da aree squamose di colore rosa|malattia della pelle
+350_883	disease	psoriasi pustolosa	psoriasi		zone arrossate che presentano pustole giallastre generalmente sulle mani o sui piedi
+549_407	disease	psoriasi pustolosa generalizzata	psoriasi		comparsa di pustole e placche in tutto il corpo
+96_454	disease	ptosi palpebrale			occhio resta chiuso a metà
+375_213|174_788	disease	pustolosi esantematica			eruzione cutanea rossa e squamosa con formazione di pustole e vescicole|eruzione cutanea rossa e squamosa con formazione di pustolose e vescicole
+362_865	disease	quadro dei sintomi cushingoidi			accumulo di liquido nel corpo
+391_1625|244_779|15_1269|76_373|102_1876	disease	rabdomiolisi			distruzione dei muscoli|disturbi ai muscoli|dolore muscolare|dolore o dolorabilità muscolare|rottura dei muscoli e distruzione dei muscoli
+452_1941	medication	ramipril			ACE inibitore
+473_1670|317_1702|50_1002	disease	rash			irritazione della pelle|arrossamenti cutanei transitori|improvviso arrossamento della pelle|bolle|vescicole e bolle|cambiamenti del colore e dell'aspetto della pelle associato a un'irritazione
+330_1762|15_1269	disease	rash cutaneo	rash		arrossamento della pelle e prurito|irritazione della pelle|improvviso arrossamento della pelle|grave eruzione della pelle
+6_1750	disease	rash maculo papulare	rash	rash maculopapulare	macchie rosse sulla pelle
+317_1702	disease	rash urticarioide	rash		irritazione della pelle
+51_1568|306_1558|172_382	disease	raucedine			alterazione della voce|alterazioni della voce|voce bassa e rauca
+329_1081	disease	reazione al farmaco con eosinofilia	eosinofilia		grave reazione di ipersensibilità chiamata dress
+442_1385	disease	reazione allergica			difficoltà respiratoria o senso di soffocamento|difficoltà respiratorie o di deglutizione|gonfiore agli occhi, al viso, alle labbra e alla gola con conseguenti difficoltà gravi nella respirazione|gonfiore del volto|gonfiore del viso
+442_1385|207_1720|158_275|192_1662|529_816|61_1211|376_945	disease	reazione anafilattica			reazione allergica|brusco abbassamento della pressione del sangue|grave reazione allergica|grave reazione allergica a rapida comparsa|reazione allergica grave|caratterizzate da eruzioni cutanee|gonfiore del viso|ipotensione e shock
+442_1385|73_1356|507_1335|78_1083|409_860|50_1002	disease	vasculite			infiammazione dei vasi del sangue|infiammazione dei vasi sanguigni|infiammazione delle pareti dei vasi sanguigni|infiammazione dei piccoli vasi sanguigni della pelle
+442_1385	disease	shok anafilattico			reazione allergica
+422_1407	disease	reazione allergica severa	reazione allergica		senso di svenimento o difficoltà nel deglutire|difficoltà nel deglutire
+535_220	disease	reazione anafilattoide			grave reazione allergica con sintomi generalizzati
+164_1075	disease	reazione da farmaco con eosinofilia	eosinofilia		ingrossamento dei linfonodi e coinvolgimento di altri organi corporei|linfonodi ingrossati e coinvolgimento di altri organi del corpo
+244_779|50_1002	disease	reazione di fotosensibilità			aumentata sensibilità della pelle alla luce|sensibilità della pelle esposta alla luce
+244_779	disease	reazione di fotosensibilizzazione			aumentata sensibilità della pelle alla luce
+473_1670	disease	reazione psicotica			problemi della mente
+376_945	disease	reazione simile alla malattia da siero			grave reazione allergica
+192_1662	disease	spasmo ai bronchi			reazione allergica
+177_201	disease	reazioni allergiche generalizzate			sensazione diffusa di calore con improvviso malessere generale fino a svenimento
+195_15	disease	reazioni anafilattoidi			gravi e rapide reazioni allergiche generali
+6_1750	disease	reazioni bollose			comparsa di bolle sulla pelle
+473_1670	disease	reazioni epatotossiche			problemi al fegato
+246_35	disease	reazioni fibrotiche			formazione di tessuto cicatriziale|fibrosi che interessano la pleura
+157_1755	disease	reazioni psicotiche			gravi alterazioni dell'equilibrio psichico|gravi alterazioni mentali|mentali
+578_1644|28_1191	medication	repaglinide			farmaco usato per ridurre i livelli di zucchero nel sangue|farmaco usato per trattare il diabete
+520_288	medication	reserpina			farmaci antiipertensivi
+143_322	disease	ridotta lacrimazione			occhi secchi
+573_780	disease	ridotto bicarbonato nel sangue			alterazioni in alcuni esami del sangue
+497_805	disease	ridotto desiderio sessuale			disturbi sessuali
+163_1532|165_1534|400_787	medication	rifabutina			antibiotico per il trattamento di infezioni batteriche|antibiotico per infezioni|farmaco usato per il trattamento della tubercolosi
+10_2006|469_64|542_1804|435_299|400_787|599_475|124_111	medication	rifampicina			antibiotico contro la tubercolosi|antibiotico usato per trattare la tubercolosi|antibiotico utilizzato per il trattamento di infezioni gravi|farmaco per il trattamento delle infezioni|farmaco antitubercolare|farmaco per il trattamento della tubercolosi|farmaco usato per il t rattamento della tubercolosi|farmaco usato per il trattamento della tubercolosi e di alcune altre infezioni|farmaco usato per trattare infezioni|farmaco usato per trattare la tubercolosi ed altre infezioni|farmaco usato per il trattamento della tubercolosi|farmaco usato per trattare la tubercolosi|farmaco utilizzato per trattare le infezioni e la tubercolosi
+244_779|249_1035|459_1742|367_1608	disease	rinite			infezione del naso|infezione delle vie aeree superiori|infiammazione dei seni nasali|infiammazione del naso|infiammazione della mucosa nasale|infiammazione delle mucose del naso
+79_387|522_1199|334_1203|419_399	disease	rinite allergica	rinite		febbre da fieno|infiammazione delle vie nasali causata da allergia|infiammazioni della mucosa nasale di origine allergica|raffreddore da fieno o allergia agli acari della polvere
+249_1035	disease	rinite allergica stagionale	rinite		infiammazione allergica
+63_328	disease	rischio emorragico			sanguinamenti
+408_1572	medication	risperidone			farmaco usato per il trattamento dei disturbi della mente
+497_805	disease	ritardata eiaculazione			disturbi sessuali
+22_934	disease	ritenzione idrica			accumulo di liquidi
+414_596	disease	ritenzione urinaria acuta	ritenzione urinaria		incapacità di svuotare la vescica dell'urina
+28_1191	medication	ritonavir			farmaco usato per il trattamento dell'infezione da HIV|farmaco usato per l'infezione da HIV
+359_1251	medication	rivastigmina			medicinale per il trattamento della malattia di Alzheimer
+578_1644	medication	rosiglitazone			farmaco usato per ridurre i livelli di zucchero nel sangue
+24_1417|272_2000	medication	salbutamolo			farmaco per il trattamento dell'asma|farmaco usato per trattare l'asma
+8_435	disease	sali di potassio			aumento dei livelli di potassio nel sangue
+203_1719	disease	sanguinamento del naso			secchezza della mucosa nasale
+52_479	disease	sanguinamento gastrointestinale			problemi allo stomaco e all'intestino
+6_1750	disease	sanguinamento post operatorio delle ferite			perdita di sangue dalle ferite dopo le operazioni
+165_1534|189_202	medication	saquinavir			farmaco utilizzato in pazienti affetti da HIV|farmaco usato nei pazienti con HIV|farmaco usato per l'infezione del virus HIV che provoca la sindrome da immunodeficienza acquisita AIDS|farmaco usato per trattare l'AIDS
+25_1913	disease	scialoadenite			infiammazione delle ghiandole salivari
+232_1666	disease	sciatalgia			dolore alla gamba dovuto all'infiammazione del nervo sciatico
+128_536|150_539	disease	sclerite			arrossamento degli occhi|infiammazione degli occhi
+254_800	disease	scoliosi			aumento della curvatura laterale della colonna vertebrale
+100_922	disease	scompenso cardiaco			patologia caratterizzata dall'incapacità del cuore di fornire un'adeguata quantità di sangue all'organismo
+237_96	disease	scompenso cardiaco congestizio	scompenso cardiaco		perdita della capacità del cuore di pompare abbastanza sangue ai tessuti del corpo
+455_1384	disease	secrezione inappropriata di adh			aumentata escrezione di urina
+258_1120	disease	segni di infiammazione del fegato			risultati anomali dei test di funzionalità epatica
+442_1385|455_1384	medication	selegilina			farmaco usato per trattare il morbo di Parkinson|trattamento del morbo di Parkinson|farmaco usato nel morbo di Parkinson|farmaco usato per il trattamento della malattia di Parkinson
+73_1356	disease	serosite			infiammazione dei vasi del sangue
+211_1724	medication	sertindolo			farmaco per schizofrenia
+545_1095	disease	distrubi sessuali nell'uomo			impotenza
+217_337	disease	setticemia			infezione del sangue|infezione a livello dell'intero organismo
+22_934|303_955|413_936	body_part	sgot			enzimi prodotti dal fegato|transaminasi sieriche|valori degli enzimi del fegato
+303_955|413_936	body_part	sgpt			transaminasi sieriche|valori degli enzimi del fegato
+532_282	disease	shock			brusco abbassamento della pressione del sangue|collasso circolatorio|collasso|diminuzione dell'afflusso di sangue ai tessuti|flusso sanguigno insufficiente ai tessuti|grave reazione allergica che richiede l'intervento immediato del medico
+459_1742|158_275|275_91	disease	shock anafilattico	shock		collasso|grave reazione allergica|grave reazione di ipersensibilità|shock rischioso per la vita|reazione allergica improvvisa
+102_1876	disease	shock di tipo anafilattico	shock		mancanza di afflusso di sangue
+3_55	disease	siadh			sindrome associata a insufficiente escrezione di acqua e bassi livelli di sodio|sindrome associata alla compromissione dell'eliminazione di acqua e a bassi livelli di sodio|sindrome associata alla compromissione dell'eliminazione di acqua ed a bassi livelli di sodio|sindrome associata alla compromissione dell'escrezione di acqua ed a bassi livelli di sodio|sindrome da inappropriata secrezione dell'ormone antidiuretico|sindrome della secrezione inappropriata di ormone antidiuretico
+507_1335|8_435	disease	sierosite			infiammazione dei vasi sanguigni|infiammazione delle membrane di rivestimento delle cavità del corpo torace ed addome
+120_470	disease	sifilide			infezione sessualmente trasmissibile
+467_1268|480_334	medication	sildenafil			farmaco usato per trattare l'impotenza negli uomini|medicinale per la disfunzione erettile
+28_1191	medication	simvastatina			farmaco usato per ridurre il colesterolo
+93_2138	disease	sincope			collasso circolatorio a volte con rallentamento del battito cardiaco e svenimento|perdita improvvisa della coscienza|improvvisa perdita di coscienza|momentanea perdita di coscienza|perdita della coscienza|perdita di coscienza|perdita di coscienza dovuta a disturbi della circolazione e della respirazione|perdita di coscienza dovuta a disturbi della circolazione e della respirazione svenimento|perdita di coscienza transitoria|perdita improvvisa di conoscenza/tendenza a svenire|perdita improvvisa e temporanea di coscienza|perdita temporanea della coscienza o della postura|svenimento|svenimento con perdita di coscienza|svenimento con temporanea perdita di coscienza|svenimento con perdita di conoscenza|sensazione di perdita di coscienza
+205_2023	disease	sindrome cerebellare subacuta			disartria|nistagmo e tremore
+290_799	disease	sindrome da apnea del sonno	apnea		difficoltà respiratorie durante il sonno
+348_442	disease	sindrome da distress respiratorio acuto			grave malattia ai polmoni per la quale i polmoni non sono in grado di funzionare correttamente
+535_220	disease	sindrome del dotto biliare evanescente			riduzione o danneggiamento delle vie che trasportano bile
+56_1431	disease	sindrome del tunnel carpale			sensazione di punture di spilli e aghi|combinazione di formicolii torpore e dolore in tutta la mano tranne il mignolo
+15_1269|467_1268	disease	sindrome dell'iride a bandiera			problemi all'occhio|problemi all'occhio durante intervento chirurgico per cataratta
+467_1268	disease	ifis			sindrome dell'iride a bandiera
+12_2054	disease	sindrome di churg strauss			peggioramento dei sintomi polmonari e/o eruzione cutanea
+327_813	disease	sindrome di cushing			condizione caratterizzata dall'eccesso di ormoni glucocorticoidi|eccesso di ormoni nella circolazione sanguigna|gonfiore del viso o del tronco causato da squilibrio ormonale|condizione causata da una eccessiva produzione di un ormone
+61_1211|52_479	disease	sindrome di lyell			necrolisi epidermica tossica|necrolisi tossica epidermica
+532_282	disease	sindrome di steven johnson		sindrome di steven-johnson	formazione di bolle ed esfoliazione
+550_786	disease	sindrome di steven-johnson		sindrome di steven johnson	gravi reazioni acute da ipersensibilità che coinvolgono la pelle e le mucose
+120_470	disease	sindrome di stevens johnson		sindrome di stevens-johnson	formazione di vesciche o desquamazione della pelle e possibile formazione di vesciche in bocca|grave ipersensibilità acuta della pelle e delle mucose a sostanze e medicinali|grave reazione allergica della pelle|grave reazione della pelle e/o delle mucose indotta dal farmaco|gravi problemi della pelle con arrossamenti e comparsa di bolle|gravi reazioni allergiche della pelle|gravi reazioni cutanee|gravi reazioni della pelle|gravi reazioni della pelle con formazione di vesciche e distacco della pelle
+534_989	disease	sindrome di stevens johson			formazione di vesciche o desquamazione della pelle e possibile formazione di vesciche in bocca
+409_860|8_435|9_1978	disease	sindrome di stevens-johnson		sindrome di stevens johnson	grave reazione allergica della pelle|grave reazione allergiche a livello della pelle|grave reazione della pelle e/o delle mucose indotta dal farmaco|gravi disturbi della pelle caratterizzate dalla comparsa di lesioni|gravi problemi della pelle con arrossamenti e comparsa di bolle|grave reazione allergica|grave reazione della pelle|grave malattia con comparsa di vesciche sulla cute|gravi lesioni della pelle caratterizzate da eritema|foliazione e morte delle cellule della pelle|grave eruzione cutanea|grave lesione della pelle caratterizzata da irritazione della pelle|morte delle cellule della pelle
+409_860|9_1978|178_1802	disease	sjs			sindrome di stevens-johnson|sindrome di stevens-johnsons
+422_1407	disease	sindrome di zollinger-ellison			eccesso di acido nello stomaco causato da un tumore nel pancreas
+127_1011|579_235	disease	sindrome dress			ingrossamento dei linfonodi|ingrossamento dei linfonodi e aumento nel sangue del numero di un tipo di globuli bianchi chiamati eosinofili|linfonodi ingrossati
+153_1230	disease	sindrome extrapiramidale			comparsa di movimenti anomali che disturbano l'andatura
+386_2119	disease	sindrome lupus simile			affaticamento, dolore alle articolazioni
+152_249|6_1750	disease	sindrome nefrosica			grave malattia dei reni|perdita di proteine con le urine
+179_716	disease	sindrome neurolettica maligna			svenimento
+267_2009	disease	sindrome parkinsoniana			problemi nei movimenti
+76_373	disease	sindrome simil-lupoide			eruzioni cutanee disturbi articolari ed effetti sulle cellule ematiche
+6_1750	disease	sindrome uremico emolitica			problemi al sangue e reni
+578_1644|109_1732	disease	sinovite			infiammazione della membrana sinoviale|manifestazioni acute articolari e periarticolari
+497_805	disease	sintomi a carico del tratto respiratorio			problemi della respirazione
+341_42	disease	sintomi di insufficienza renale acuta			escrezione urinaria ridotta o assente
+268_830	disease	sintomi di reazione allergica			gonfiore
+359_1251	disease	sintomi extrapiramidali			tremiti
+497_805	disease	sintomi ortostatici			vertigini quando ci si alza
+244_779|367_1608|550_786|397_789|174_788|99_34	disease	sinusite			infezione delle cavità del naso|infezione dei seni paranasali|infezione delle cavità nasali|infezione delle mucose del naso|infezione o infiammazione dei seni|infezione dei seni nasali|infezione delle alte vie respiratorie incluse infiammazione dei seni nasali|infezione delle alte vie respiratorie|infiammazione dei seni nasali|infiammazione dei seni paranasali|infiammazione delle cavità del naso|infiammazione delle mucose nasali|infiammazione delle mucose paranasali|infiammazione delle mucose del naso
+496_958	disease	sinusite acuta	sinusite		infiammazione del naso|infiammazione grave del naso
+575_1893|492_343	disease	sinusite batterica acuta	sinusite		infezione dei seni facciali|infiammazione grave del naso causata da germi
+304_806|497_805	medication	sirolimus			farmaco utilizzato per evitare il rigetto di organi trapiantati|medicinale utilizzato per prevenire il rigetto da trapianto d'organo e per il cancro
+479_1535	medication	tacrolimus			farmaco usato per prevenire il rigetto dei trapianti
+365_7	disease	sitosterolemia omozigote			malattia ereditaria
+538_285	body_part	snc			sistema nervoso centrale
+192_1662	medication	snri			inibitori della ricaptazione della serotonina noradrenalina
+342_33	medication	SNRIs			inibitori della ricaptazione della serotonina-norepinefrina
+319_781	disease	sonnolenza			sensazione di stanchezza|sentirsi assonnati|sentirsi assonnato|bisogno di dormire
+319_781	disease	torpore			sonnolenza
+319_781	disease	sopore			sonnolenza
+374_1825	medication	sotalolo			farmaco per il trattamento della tachicardia
+28_1191	disease	sovraccarico di ferro			eccesso di ferro dall'organismo
+117_303|435_299	disease	spasmo muscolare			crampi alle gambe|tremore dei muscoli impossibile da controllare
+254_800	disease	spasticità cerebrale			danni al cervello
+339_1976	medication	spironolattone			diuretico risparmiatore di potassio
+152_249	disease	spondilite anchilosante			malattia infiammatoria cronica e autoimmune della colonna vertebrale
+211_1724	disease	sporotricosi linfocutanea			infezione sottocutanea causata da un fungo con comparsa di noduli a livello dei vasi linfatici
+214_450	disease	spotting			sanguinamento intermestruale
+157_1755	disease	stati di torpore			diminuzione della sensibilità e della prontezza dei riflessi
+448_1486	medication	statine			farmaco per abbassare i livelli di grassi nel sangue
+472_601	disease	steatorrea			elevata quantità di sostanze grasse nelle feci
+2_2089	disease	stipsi			scarsi movimenti intestinali|stitichezza
+241_160	disease	stomatite ulcerosa			ulcera nella cavità orale
+21_2073	disease	strappi			dolori acuti dei muscoli e delle ossa
+355_1372	medication	streptochinasi			farmaci fibrinolitici
+239_438	disease	striscio cervicale anomalo			test anormale
+239_438	disease	stupor			stato di incoscienza
+178_1802	medication	sucralfato			farmaco usato per cicatrizzare le ulcere
+505_904	medication	sulfametossazolo			medicinale antibiotico
+267_2009	disease	sulfemoglobinemia			livelli anomali di pigmento del sangue che possono modificare il colore della pelle
+355_1372	medication	sulfinilpirazone			farmaco con effetto antiaggregante piastrinico
+224_443	medication	sultopride			medicinale per il trattamento delle malattie mentali
+112_1112	medication	sumatriptan			farmaco usato per il trattamento dell'emicrania
+118_793	disease	superinfezione			infezione causata da batteri|infezione causata da batteri o funghi
+78_1083	disease	superinfezioni da funghi			infezione da funghi
+552_1571	body_part	surrene			ghiandola che regola la risposta allo stress
+122_2135	disease	tachicardia riflessa	tachicardia		aumento della frequenza del battito del cuore
+326_390	disease	tachicardia ventricolare	tachicardia		alterazioni del ritmo del cuore
+52_479|479_1535|163_1532|415_208	medication	tacrolimus			farmaco immunosoppressore|farmaco usato per la soppressione del sistema immunitario|immunosoppressori usati per modificare la risposta del sistema immunitario dell'organismo|farmaco usato per prevenire il rigetto dei trapianti|farmaco usato per prevenire il rigetto nei trapianti|farmaco usato per prevenire rigetti da trapianto|immunosoppressore
+238_656	medication	talitromicina			antibiotico per le infezioni causate da batteri
+155_108	medication	telaprevir			farmaco usato per trattare le infezioni da virus dell'epatite C|farmaco usato per trattare l'infezione da virus dell'epatite C
+202_225|74_268|155_108	medication	telitromicina			antibiotico utilizzati per trattare alcune infezioni batteriche|farmaco usato per trattare le infezioni|farmaco usato per trattare le infezioni batteriche
+600_1729	disease	fenomeni visivi luminosi			temporanea luminosità nel campo visivo
+304_806|497_805	medication	temsirolimus			farmaco utilizzato per evitare il rigetto di organi trapiantati|medicinale utilizzato per prevenire il rigetto da trapianto dorgano e per il cancro
+313_1847	body_part	tendine			tessuto connettivo che collega i muscoli alle ossa
+78_1083	body_part	tendine di achille			grosso tendine situato nella parte posteriore della caviglia
+313_1847|109_1732	disease	tendinite			infiammazione di un tendine|manifestazione acuta articolare e periarticolari
+228_480	disease	tenosinoviti			infiammazione della membrana che ricopre il tendine
+203_1719	disease	tentato suicidio			hanno cercato di porre fine alle proprie vite
+286_1544|272_2000|171_471	medication	teofillina			farmaco usato per il controllo dell'asma|farmaco usato per trattare l'asma|farmaco usato per trattare malattie respirator ie come l'asma|farmaco usato per il trattamento di problemi respiratori
+272_2000	medication	terbutalina			farmaco usato per trattare l'asma
+433_1553|244_779	medication	terfenadina			farmaco antistaminico utilizzati per il trattamento di allergie|farmaco per il trattamento delle allergie|farmaco usato contro le allergie|farmaco usato per le allergie|farmaco usato per il trattamento delle allergie e della febbre da fieno
+203_1719	body_part	tessuto di granulazione			tessuto connettivo
+251_1616	disease	tetania			problemi ai muscoli
+86_1920	disease	TIA			ictus
+357_619	medication	tiamina			vitamina b
+588_422	medication	ticagrelor			farmaco usato per fluidificare il sangue
+355_1372|112_1112	medication	ticlopidina			farmaco con effetto antiaggregante piastrinico|farmaco usato per ridurre il rischio di ictus
+77_857	disease	Timololo Mylan			brimonidina
+537_1700|231_1216	disease	tinnito			disturbi dell'udito|ronzio nelle orecchie
+318_1981	medication	tioguanina			farmaci immunosoppressori che riducono l'attività del sistema immunitario
+160_839|28_1191	medication	tizanidina			rilassanti muscolari|farmaco usato come rilassante muscolare
+286_1544	medication	tofacitinib			farmaco usato per il trattamento dell'artrite reumatoide
+244_779|376_945|397_789|375_213	disease	tonsillite			infezione delle tonsille|infezione della gola|infezione delle alte vie respiratorie|infiammazione della gola|infiammazione delle tonsille|infiammazione delle tonsille della gola
+577_115	disease	torsade de pointes			alterazione dell'attività elettrica del cuore
+326_390|224_443|97_1554|244_779	disease	torsione di punta			alterazione del ritmo del cuore|anomalie del battito del cuore|alterazione del battito del cuore|alterazione del funzionamento del cuore
+56_1431|218_711	medication	tos			terapia ormonale sostitutiva|terapia sostitutiva ormonale
+355_1372	disease	tossicità epatica			danni al fegato
+130_2080	disease	tossicità oculo mucocutanea			occhi secchi e gravi reazioni della pelle
+112_1112	medication	tramadolo			farmaco usato contro il dolore forte|farmaco usato contro il dolore intenso|farmaco usato per il dolore intenso
+223_1396	medication	tranilcipromina			farmaco usato per il trattamento della depressione
+225_1435|476_739|535_220|37_740|78_1083	body_part	transaminasi			enzimi epatici|enzima|enzimi prodotti dal fegato|esami del sangue relativi alla funzionalità del fegato|sostanze nel sangue
+473_1670	disease	transaminasi elevate			alterazioni dei test di funzionalità del fegato
+78_1083	body_part	transaminasi epatiche			sostanze nel sangue
+7_212	disease	transitoria perdita di coscienza			svenimento
+199_451|245_1769	disease	tremore			problemi del sistema nervoso|scuotimento|tremolio|tremolio involontario
+435_299	disease	tremore muscolare			tremore dei muscoli impossibile da controllare
+211_1724	medication	triazolam			farmaco per sedazione o per aiutarla a dormire
+75_2025	disease	trichomoniasi sintomatica			infezione causata da microrganismo Trichomonas|infezione sessualmente trasmissibile
+179_716	medication	triciclici			clomipramina
+131_588|333_1718	body_part	trigliceridi			aumento dei livelli di grassi|grassi nel sangue
+505_904	medication	trimetoprim			medicinale antibiotico
+112_1112	medication	triptofano			farmaco usato per il trattamento di malattie mentali
+472_601	disease	trombi			coaguli di sangue
+217_337	disease	trombocitemia			aumento del numero delle piastrine
+22_934	disease	trombocitopenia			abbassamento dei livelli delle piastrine|bassi livelli di piastrine nel sangue che possono provocare sanguinamento e lividi inattesi|basso numero di piastrine|basso numero di piastrine nel sangue|diminuzione dei livelli delle piastrine nel sangue|diminuzione dei livelli di piastrine nel sangue|diminuzione del numero delle piastrine|diminuzione del numero delle piastrine del sangue|diminuzione del numero delle piastrine nel sangue|diminuzione del numero di piastrine nel sangue|diminuzione delle cellule del sangue chiamate piastrine|diminuzione delle piastrine|diminuzione delle piastrine nel sangue|diminuzione di un tipo di cellule presenti nel sangue|diminuzione piastrine nel sangue|problemi del sangue|ridotto numero delle piastrine|ridotto numero di piastrine|riduzione dei livelli delle piastrine|riduzione dei livelli delle piastrine nel sangue|riduzione del numero delle piastrine|riduzione del numero delle piastrine del sangue|riduzione del numero delle piastrine nel sangue|riduzione del numero di cellule coinvolte nella coagulazione del sangue|riduzione del numero di piastrine|riduzione del numero di piastrine nel sangue|riduzione del numero di piastrine nel sangue che aumenta il rischio di lividi/sanguinamento|riduzione delle piastrine nel sangue|riduzione nel sangue del numero di piastrine|basso livello di piastrine nel sangue|ridotto numero delle piastrine nel sangue|riduzione dei livelli di piastrine nel sangue|bassi livelli di alcune cellule del sangue|riduzione delle piastrine che può essere associata ad improvvisi sanguinamenti
+531_977	disease	trombocitosi			aumento dei livelli delle piastrine nel sangue
+483_1967	disease	tromboembolismo			insufficienza cardiaca e coagulazione del sangue venoso
+297_338|531_977|576_951|125_1656	disease	tromboflebite			infezione a livello delle vene|infiammazione della vena|infiammazioni di una vena con o senza formazioni di coaguli di sangue|problemi di circolazione dovuti alla formazione di coaguli di sangue ed infiammazione delle vene
+379_2161|483_1967|473_1670|125_1656	disease	trombosi			coaguli ematici|insufficienza cardiaca e coagulazione del sangue venoso|problemi della circolazione del sangue|problemi di circolazione del sangue|problemi di circolazione dovuti alla formazione di coaguli di sangue ed infiammazione delle vene nella zona di infusione
+187_411	disease	trombosi cerebrale	trombosi		formazione di coaguli nelle vene cerebrali
+254_800	disease	trombosi venosa profonda	trombosi		formazione di coaguli di sangue nei vasi sanguigni|coagulo di sangue nella gamba
+355_1372	disease	trombosi venose ed arteriose profonde	trombosi		formazione di coaguli nelle vene o arterie legata ad una ridotta possibilità di movimento
+243_1466|540_2142	body_part	tsh			ormone stimolante la tiroide|ormone tireostimolante
+289_320	medication	tubocurarina cloruro	cloruro		farmaco utilizzato per rilassare i muscoli durante gli interventi chirurgici
+525_2014	disease	turbe cardiache funzionali			alterazioni del ritmo del battito del cuore
+525_2014	disease	turbe della conduzione cardiaca			dolore al cuore
+525_2014	disease	turbe della memoria			disturbi della memoria
+266_1753|157_1755|118_793	disease	ulcera			lesione della parete dello stomaco o dell'intestino che può essere anche perforata e accompagnata da perdita di sangue|lesione della parete dello stomaco o dell'intestino e/o infiammazione che può essere accompagnata da perdita di sangue|lesioni alla bocca
+301_1956	disease	ulcera duodenale	ulcera		lesioni dello stomaco e dell'intestino
+579_235	disease	ulcera esofagea	esofagea		lesione della parete interna dell'esofago
+375_213	disease	ulcera molle	ulcera		causata dal batterio Haemophilus ducreyi
+118_793	disease	ulcera molle da haemophilus ducreyi	ulcera		infezione dei genitali
+85_1561|51_1568|172_382|266_1753|157_1755	disease	ulcera peptica	ulcera		alterazione della parete interna dello stomaco|disturbo allo stomaco e all'intestino|lesione della mucosa dello stomaco|lesione dello stomaco|lesioni gastrointestinali|lesione della parete dello stomaco o dell'intestino che può essere anche perforata e accompagnata da perdita di sangue|lesione della parete dello stomaco o dell'intestino e/o infiammazione che può essere accompagnata da perdita di sangue
+52_479	disease	ulcerazione			sanguinamento gastrointestinale o lesione a livello dello stomaco o dell'intestino
+514_527	disease	ulcerazione dell'esofago	ulcerazione		difficoltà o dolore durante la deglutizione
+232_1666|473_1670	disease	ulcere peptiche			bruciore o dolore addominale dovuti a lesioni dello stomaco o dell'intestino|formazione di lesioni allo stomaco o all'intestino
+98_32	disease	ulcere superficiali			perdita dello strato superficiale della pelle
+535_220	body_part	urea			prodotto eliminato dai reni
+211_1724	disease	urea ematica	urea		aumento dei livelli di urea nel sangue
+304_806|211_1724	disease	uremia			accumulo di urea nel sangue a causa di insufficienza renale|aumento dei livelli di urea nel sangue
+22_934	disease	uretrite gonococcica			infezioni dell'uretra causate da un batterio chiamato gonococco
+375_213	disease	uretrite non gonococcica			causata dal batterio Chlamydia trachomatis
+118_793	disease	uretrite non gonococcica da chlamydia trachomatis	uretrite		infezione delle vie urinarie
+8_435	disease	uricemia			aumento dei livelli di acido urico nel sangue
+469_64	body_part	urina concentrata			urina di colore scuro
+355_1372	medication	urochinasi			farmaco fibrinolitico
+535_220	disease	urolitiasi			calcoli renali
+128_536|150_539|472_601|407_9	disease	uveite			arrossamento degli occhi|dolore o arrossamento degli occhi|infiammazione degli occhi|Infiammazione dell'occhio|infiammazione dell occhio|infiammazione della parte colorata dell'occhio|infiammazione di una membrana dell'occhio|infiammazione oculare
+277_308	disease	vampate			disturbi della temperatura del corpo
+258_1120	medication	vardenafil			farmaco usato per il trattamento della disfunzione erettile
+169_2003|507_1335	disease	vasculite allergica	vasculite		allergia|infiammazione dei vasi sanguigni
+535_220	disease	vasculite cerebrale	vasculite		infiammazione dei vasi sanguigni del cervello
+25_1913	disease	vasculite cutanea	vasculite		infiammazione dei vasi cutanei|infiammazione dei vasi sanguigni della cute
+211_1724	disease	vasculite leucocitoclastica	vasculite		infiammazione dei piccoli vasi sanguigni
+535_220	disease	vasculite polmonare	vasculite		infiammazione dei vasi sanguigni del polmone
+535_220	disease	vasculite retinica	vasculite		infiammazione dei vasi sanguigni dell'occhio
+577_115	body_part	vasi			vene e arterie
+501_807	medication	vasodilatanti			sostanze vasodilatatrici
+6_1750	disease	vasodilatazione			aumento del volume dei vasi sanguigni
+524_98	disease	vasodilatazione periferica	vasodilatazione		pelle rossa e calda
+366_608	medication	venlafaxina			inibitore della ricaptazione della serotonina e della noradrenalina
+258_1120|130_2080|116_2079|97_1554	medication	verapamil			farmaco per il cuore|farmaco usato per abbassare a pressione alta del sangue o per normalizzare il ritmo cardiaco|farmaco usato per abbassare la pressione del sangue|farmaco usato per la pressione del sangue alta o altri problemi di cuore|medicinale usato per trattare problemi al cuore
+246_35	disease	versamento pleurico			raccolta di liquido nello spazio tra i polmoni e il torace
+398_1815	disease	vhs			virus herpes simplex
+249_1035	body_part	vie aeree superiori			naso e gola
+377_1271	body_part	vie respiratorie			naso, gola, polmoni
+263_949	medication	viomicina			sostanze potenzialmente nefrotossiche
+189_202	medication	vitamina a			integratore alimentare
+420_1170	medication	vitamina D			soluzione colecalciferolo|colecalciferolo
+206_277	disease	vomito			stato di malessere
+223_1396	medication	voriconazolo			farmaco usato per il trattamento delle infezioni causate da un fungo|farmaco usato per il trattamento di infezioni causate da funghi|farmaco usato per trattare le infezioni da funghi
+594_170	medication	voxilaprevir			farmaco usato per un'infezione virale del fegato denominata epatite C
+297_338	disease	vulvovaginite da candida			infezione della vulva e della vagina
+3_55|448_1486|178_1802|97_1554|189_202	medication	warfarin			antagonisti della vitamina K|farmaco che diluisce il sangue|farmaco usato per eliminare coaguli di sangue o evitarne la formazione|farmaco utilizzato per rendere il sangue più fluido|farmaco utilizzato per rendere più fluido il sangue|farmaco che fluidifica il sangue per prevenire la formazione di coaguli
+537_1700	disease	xantopsia			alterazione della percezione dei colori
+304_806	disease	xerostomia			bocca secca
+258_1120	medication	zidovudina			antivirale
+67_1465	disease	zoster oftalmico			infezione nell'area circostante l'occhio o anche dell'occhio stesso
+251_1616	disease	ipoproteinemia			abbassamento dei livelli di proteine nel sangue
+93_2138	disease	ipossiemia			abbassamento del contenuto di ossigeno nel sangue
+268_830	disease	ptosi			abbassamento della palpebra
+599_475|124_111	medication	acido nicotinico			farmaco usato per abbassare il colesterolo nel sangue|farmaco utilizzato per trattare il colesterolo alto
+169_2003	disease	acidosi lattica			accumulo di acido lattico nell’organismo
+203_1719	disease	acne fulminante	acne		acne grave
+117_303	medication	agente antifungino			farmaco usato per il trattamento delle infezioni da funghi
+180_1968	medication	agonisti dopaminergici			bromocriptina
+533_2117	disease	aku			alcaptonuria
+319_781	medication	alfentanil			antidolorifico
+237_96	disease	dermatite allergica	dermatite		allergia
+8_435	medication	amine pressorie			medicinali con potenti effetti stimolanti
+159_1053	medication	amitriptilina			medicina usata per trattare la depressione
+254_800	medication	analgesici			medicinali per il trattamento del dolore
+435_299	medication	analgesici narcotici	analgesici		antidolorifici molto potenti
+488_174	body_part	pancreas			ghiandola coinvolta nella digestione dei cibi
+459_1742	disease	anemia emorragica	anemia		anemia dovuta a sanguinamento
+435_299	medication	anestetico			farmaco per alleviare i l dolore
+103_1488	medication	anestetico generale	anestetico		farmaco utilizzato per addormentare durante le operazioni
+530_2015	medication	anestetico generale e locale	anestetico		farmaco per indurre l’anestesia durante gli interventi chirugici
+73_1356|25_1913|8_435|507_1335|482_1329	disease	angioedema intestinale	angioedema		gonfiore dell'intestino|gonfiore delle pareti dell'intestino|gonfiore delle pareti dell’intestino|gonfiore nell'intestino|gonfiore nell’intestino
+187_411	disease	menorragia			anomala abbondante perdita ematica uterina durante mestruazione
+16_1591	disease	anorgasmia			mancato raggiungimento dell’orgasmo
+118_793|287_744|3_55|274_1821|505_904|326_390|237_96|153_1230|400_787|204_391|525_2014|361_2139	medication	antiaritmico			amiodarone e sotalolo|disopiramide o amiodarone|dofetilide|ibutilide|idrochinidina|medicinale che normalizzano il ritmo cardiaco|medicinale per controllare il battito cardiaco|medicinale usato per il ritmo del cuore|medicinale utilizzato per il trattamento delle aritmie|medicinale utilizzato per problemi nel ritmo dei battiti del cuore|farmaco per trattare problemi di cuore|farmaco usato per il ritmo del cuore|farmaco usato per il trattamento delle alterazioni del ritmo del battito del cuore|farmaco utilizzato per le alterazioni del battito cardiaco
+217_337|228_480|63_328|78_1083|361_2139	medication	anticoagulante orale	anticoagulante		farmaco che fluidifica il sangue|farmaco che ritarda la coagulazione del sangue|medicinale utilizzato per rendere il sangue più fluido presi per bocca|farmaco per fluidificare il sangue|farmaco utilizzato per rendere più fluido il sangue
+423_1871|132_1971	medication	anticolinergico			medicinale che agisce sul sistema nervoso centrale|sostanza generalmente impiegata per trattare disordini del movimento o crampi intestinali
+10_2006	medication	anticolinesterasico			medicinale contro le malattie dei muscoli
+594_170|530_2015|367_1608|537_1700	medication	antidiabetico			farmaco per abbassare la glicemia|faramco per ridurre i livelli di zuccheri nel sangue|farmaco usato per il diabete|farmaco utilizzato per trattare il diabete
+237_96	medication	antimalarico			medicinale utilizzato per trattare la malaria
+59_1690|111_1687	medication	antimicotico			farmaco contro le infezioni da funghi
+112_1112	medication	antipsicotico atipico			medicinale per i disturbi mentali
+117_303	medication	antiretrovirali			farmaci usati per il trattamento dell’ HIV
+237_96	medication	antistaminici di classe h			medicinali utilizzati per il trattamento delle ulcere gastriche
+295_1810|474_1816|398_1815	body_part	ciste dell'iride			area piena di fluido nella parte colorata dell'occhio|area piena di fluido nella parte colorata dell’occhio|area ripiena di liquido nella parte colorata dell'occhio
+118_793	disease	ipersecrezione salivare			aumentata salivazione
+279_1324	disease	iperestesia			aumentata sensibilità al tatto o al dolore
+355_1372	body_part	ft			ormone tiroideo
+78_1083	body_part	amilasi			sostanza nel sangue
+30_50	disease	ipertricosi			aumento della peluria
+341_42	disease	irsutismo			aumento della peluria
+203_1719	disease	ipertensione endocranica benigna	ipertensione endocranica		aumento della pressione nel cervello
+195_15|220_436|254_800|169_2003|196_142|416_1653|130_2080|116_2079|305_633|132_1971|466_903|505_904|2_2089|47_423|124_111	medication	Barbiturici			che hanno un effetto calmante|determinati medicinali usati nel trattamento dell’ epilessia o durante un’ anestesia|l’ insonnia e i disturbi dell’ umore|medicinali usati per trattare l’ epilessia|medicinali utilizzati per trattare l’ epilessia|per il trattamento di nervosismo e problemi del sonno|per l' epilessia|per l’ epilessia|sedativi|sostanze generalmente impiegate per indurre il sonno|tipo di sedativo usato anche per il trattamento dell’epilessia|tipo di sedativo usato anche per trattare l’epilessia|usati anche per l' epilessia|usati in anestesia|utilizzati per trattare il nervosismo e i disturbi del sonno
+52_479|414_596|304_806|146_1383	disease	capogiri			giramenti di testa|giramento di testa|notevole della pressione sanguigna|sentirsi instabili o senza equilibrio
+15_1269	disease	vertigine posizionale			capogiri di media o forte intensità che si verificano durante cambiamenti di posizione della testa
+144_850	disease	carcinoma della pelle e delle labbra			carcinoma cutaneo non melanoma
+99_34	disease	carcinoma della vescica			tum ore della vescica
+551_734|525_2014|287_744	disease	catatonia			apatia e riduzione dell’attività motoria|grave disturbo della mente|incapacità a muoversi
+104_89|386_2119|503_1618|451_1716	disease	cianosi			colorazione blu della pelle causata da un basso livello di ossigeno nel sangue|colorazione bluastra della cute|colorazione bluastra della pelle|colore bluastro delle labbra
+503_1618	medication	cisplatino			per il trattamento di tumori
+274_1821	body_part	cisti dell'iride			cisti con liquido allinterno della parte colorata dell'occhio
+37_740	medication	clonidina			medicinale per la cura della pressione alta o per prevenire l’ emicrania
+426_330|414_596	disease	collasso circolatorio			accompagnato da rallentamento del battito cardiaco e perdita di conoscenza|notevole calo della pressione del sangue con vari disturbi fino alla perdita di coscienza
+446_377	disease	colorito giallo della pelle			itterizia
+387_278	medication	composti del platino			carboplatino, cisplatino
+97_1554|76_373|376_945|41_1423	medication	contraccettivi orali			medicinali utilizzati per prevenire una gravidanza|pillola|pillola anticoncezionale|terapia di combinazione può aumentare il rischio di effetti indesiderati
+28_1191	medication	contraccettivi ormonali			medicinali per il controllo delle nascite
+149_273	medication	contraccettivo orale			pillola
+50_1002	disease	contrazioni involontarie e ripetute dei muscoli			spasmi
+233_620	disease	contrazioni ripetute dei muscoli			spasmi
+206_277	disease	coronaropatia arteriosa stabile			condizione in cui il sangue fornito al cuore è ridotto o bloccato
+524_98	medication	cortisonici			medicinali usati per il trattamento degli stati infiammatori
+187_411|241_160	disease	costipazione			difficoltà ad evacuare|presenza di feci dure e secche
+200_1038	disease	crisi ocuologira			occhi con movimenti circolatori incontrollati
+366_608	disease	danno all'intestino			ischemia intestinale
+338_2136|336_301	disease	dermatite da contatto	dermatite		infiammazione della pelle con sintomi|infiammazione della pelle dovuta al contatto con certe sostanze
+507_1335	disease	dermatite esfoliativa/eritroderma	dermatite		grave eruzione cutanea con desquamazione o esfoliazione dello strato superficiale della cute
+549_407|257_881|350_883|30_50	disease	dermatite periorale	dermatite		eruzione cutanea a chiazze rosse intorno alla bocca|eruzione cutanea rossa intorno alla bocca|eruzioni cutanee rosse attorno alla bocca|infiammazione della pelle intorno alla bocca
+272_2000	disease	diabete di tipo	diabete		diabete non insulino dipendente
+599_475	disease	diabete di tipo ii	diabete		diabete che non richiede trattamento con le iniezioni di insulina
+416_1653|148_1650	disease	diabete mellito di tipo	diabete		diabete insulino - dipendente|Gliclazide Sandoz è indicato per il trattamento di alcuni tipi di diabete|Glimepiride Accord Healthcare viene utilizzata per il trattamento di una forma di diabete
+396_1994|124_111	disease	diabete mellito di tipo 2	diabete		non insulino dipendente|serve per trattare una forma di diabete
+567_1214	disease	diarrea emorragica	diarrea		presenza di sangue durante l’evacuazione
+319_781	disease	difficoltà a deglutire			dispfagia
+100_922	disease	difficoltà di movimento			claudicazione intermittente
+228_480|24_1417|388_1677|201_1529|579_235|195_15|41_1423|400_787|267_2009|153_1230|37_740|211_1724|599_475|178_1802	medication	digossina			farmaco che stimola la funzionalità del cuore|farmaco per il trattamento dell’insufficienza cardiaca e del ritmo cardiaco irregolare|glicosidi cardiaci|medicinale che stimola il cuore|medicinale contro alcune malattie del cuore|medicinale per il cuore|medicinale per il trattamento dell’insufficienza cardiaca e del ritmo cardiaco irregolare|medicinale per problemi cardiaci|medicinale usato per trattare l’insufficienza cardiaca|medicinali per il cuore in genere ed in particolare i glicosidi cardioattivi|per il trattamento dello scompenso cardiaco|per la fibrillazione atriale|usata per l’ insufficienza cardiaca e i problemi del ritmo cardiaco|usata per trattare problemi cardiaci
+468_1094|112_1112	disease	bruxismo			digrignamento dei denti|digrignamento dei denti durante il sonno
+524_98	disease	iperemia della congiuntiva			dilatazione dei vasi superficiali oculari
+138_875	disease	idronefrosi			dilatazione del bacinetto renale
+370_1296	body_part	pupilla			centro scuro dell'occhio
+254_800	disease	ipogeusia			diminuzione del gusto
+9_1978|269_173|39_163	disease	oligospermia			Diminuzione del numero di spermatozoi prodotti|riduzione del numero di spermatozoi nell’eiaculato
+243_1466	disease	iposmia			diminuzione dell’olfatto
+254_800	disease	bradipnea			diminuzione della frequenza degli atti respiratori
+521_1946	disease	ipovolemia			diminuzione della quantità del sangue nell’organismo
+152_249	disease	atrofia surrenale			diminuzione delle dimensioni del surrene
+564_1510|46_1522	body_part	eiaculato			sperma rilasciato durante il rapporto sessuale
+239_438	disease	prolasso pelvico			discesa verso il basso o fuori dalla sede di organi pelvici
+78_1083|158_275	disease	disturbi olfattivi			disturbi dell'odorato|disturbi dell’odorato
+218_711	disease	dita a scatto			condizione nella quale un suo dito o il pollice assumono una posizione curva
+454_712	disease	dito a scatto			condizione nella quale il suo dito o il pollice assume una posizione curva
+222_135	medication	erba di S. Giovanni			Hypericum perforatum
+366_608|435_299|510_134|115_318	medication	erba di san giovanni			hypericumperforatum|medicinale di ori gine vegetale|medicinale per trattare la depressione|pianta officinale con proprietà antidepressive e antivirali
+293_462	body_part	follicolo			struttura che avvolge la radice del pelo
+57_1482	body_part	ponfi			noduli cutanei
+423_1871	disease	ideazione paranoide			forme di pensiero che si discostano dalla realtà
+131_588	body_part	epidermide			strato superficiale della pelle
+57_1482	disease	gengivite			gengive gonfie
+553_83	body_part	uvea			parte dell’occhio
+367_1608	disease	tracheobronchite			gonfiore o irritazione della trachea
+237_96	disease	paresi			incapacità di muoversi
+367_1608	disease	disfasia			incapacità di usare o capire il linguaggio
+177_201	disease	aterosclerosi			indurimento delle arterie
+473_1670|157_1755|27_695|61_1211|231_1216|109_1732|232_1666	disease	meningite asettica			infezione delle membrane che avvolgono il cervello senza crescita di batteri in coltura|infiammazione delle membrane che avvolgono il cervello|infiammazione delle membrane che circondano il cervello e il midollo spinale|infiammazione delle membrane che proteggono il cervello|infiammazione delle membrane che rivestono il cervello|infiammazione delle membrane che rivestono il cervello non causata da batteri|infiammazione delle meningi
+240_792|118_793	disease	infezione odontostomatologica			infezioni della bocca e dell’esofago|infezioni della bocca o dei denti
+293_462	disease	dermatite seborroica	dermatite		infiammazione della pelle che si manifesta con arrossamento e formazione di scaglie nel cuoio capelluto nel viso e nel petto
+181_219	disease	vaginite			infiammazione della vagina
+373_954	disease	vaginite da candida	vaginite		infiammazione della vagina causata da un fungo
+263_949|78_1083|43_167	disease	itterizia			ingiallimento della cute e del bianco degli occhi|colorazione gialla della pelle|ingiallimento della pelle
+279_1324	disease	instabilità emotiva			cambiamenti d’umore
+104_89	disease	apnea			interruzione del respiro di tanto in tanto
+370_1296|112_1112|89_1288	medication	iperico			Erba di S Giovanni|Erba di S. Giovanni o Hypericum perforatum|erba di san giovanni|Hypericum perforatum o Erba di S. Giovanni|vedi “ Avvertenze e precauzioni ” e “ Altri medicinali e Ricap ”
+265_1775	medication	iperico perforato			erba di san giovanni
+7_212|15_1269|104_89|118_793|207_1720|243_1466|400_787|375_213|319_781|211_1724|255_2033|88_2032|573_780	disease	ipoestesia			diminuizione della sensibilità cutanea|diminuzione della sensibilità|diminuzione della sensibilità della cute|diminuzione della sensibilità della pelle|diminuzione della sensibilità e della risposta agli stimoli|diminuzione sensibilità della pelle|ridotta o alterata sensazione tattile|ridotta sensibilità|ridotto senso del tatto|riduzione del senso del tatto|riduzione della sensibilità e della risposta ad un determinato stimolo|riduzione della sensibilità nel toccare|sensibilità al tatto ridotta|senso del tatto ridotto|senso ridotto del tatto
+81_876|167_877|301_1956	disease	ipofosfatemia			abbassamento dei livelli di fosfato nel sangue|diminuzione dei livelli di fosforo nel sangue|diminuzione del fosfato nel sangue
+236_649|362_865|585_647	medication	itraconazolo			medicinale antifungino|medicinale prescritto per le infezioni da funghi|medicinale utilizzato per il trattamento delle infezioni da funghi
+170_1151|392_1526|124_111	medication	lassativo			come la paraffina liquida|farmaci che stimolano il movimento intestinale|medicinali che stimolano i movimenti intestinali|medicinali che stimolano il movimento intestinale|utilizzati per trattare la costipazione se usati a lungo
+42_1425	disease	linfopenia			numero dei linfociti ridotto
+224_443	medication	lassativi stimolanti			medicinali che aumentano la motilità intestinale e l’evacuazione intestinale
+493_420	medication	chemioterapia			medicinali usati per il cancro
+118_793	medication	antistaminico			medicinale utilizzato per trattare le allergie
+59_1690|111_1687|144_850	medication	mezzi di contrasto iodati			farmaco contenenti iodio utilizzati nelle indagini radiologiche|farmaci contenenti iodio utilizzati nelle indagini radiologiche|medicinali usati negli ospedali per esaminare i vasi sanguigni
+488_174|269_173	disease	miocardite			infiammazione del cuore|infiammazione del muscolo del cuore
+72_81	disease	paralisi di bell			paralisi parziale del volto
+72_81|488_174|269_173|579_235	disease	pericardite			infiammazione della membrana che circonda il cuore|infiammazione della membrana che ricopre il cuore|infiammazione della membrana che riveste il cuore|una sottile membrana che circonda il cuore
+239_438	disease	paralisi del nervo peroneale			piede cadente
+535_220	disease	cristalluria			presenza di cristalli nelle urine
+248_344	disease	ematochezia			presenza di sangue nelle feci
+50_1002|25_1913	disease	glicosuria			presenza di zuccheri delle urine|presenza di zuccheri nelle urine
+78_1083	disease	ipertensione endocranica	ipertensione		pressione sul cervello
+565_1617	disease	pseudo-sindrome di Bartter			grave diminuzione della pressione del sangue ed anormale aumento di calcio nelle urine|malattia in cu si verificano contemporaneamente un aumento del pH del sangue
+183_184	disease	anisocoria			pupille degli occhi con diametro diverso tra loro
+104_89	disease	miosi			pupille ristrette
+391_1625	disease	depressione respiratoria			respiro corto
+559_802	disease	broncospasmo paradosso	broncospasmo		respiro corto e ansimante
+169_2003	disease	aplasia midollare			ridotta funzionalità del midollo osseo
+254_800	disease	ipotonia			riduzione del tono dei muscoli
+233_620	disease	ipoacusia			riduzione dell'udito
+8_435	disease	linfadenopatia			rigonfiamento delle ghiandole
+325_1560|172_382|8_435	disease	rinorrea			abbondante produzione di muco dal naso|gocciolamento del naso|naso che cola
+367_1608	disease	ritenzione di liquido nei polmoni			congestione polmonare
+410_2043|65_62|6_1750|392_1526|200_1038	disease	ritenzione urinaria			difficoltà a urinare|difficoltà ad urinare|incapacità della vescica di svuotarsi|incapacità della vescica urinaria di svuotarsi completamente|incapacità di svuotamento completo della vescica
+131_588|337_1640	disease	acufene			ronzio alle orecchie|ronzio nelle orecchie che non va via
+193_244	disease	cisti ovariche			sacche di liquido nell'ovaio
+152_249	disease	sarcoidosi			malattia caratterizzata dalla formazione di granulomi in vari organi e tessuti
+428_439	disease	sm			sclerosi multipla
+91_2038	disease	parestesia orale	parestesia		sensazione anomala nella bocca
+91_2038	disease	ipoestesia orale	ipoestesia		sensazione di addormentamento della bocca
+6_1750|237_96|104_89	disease	euforia			sensazione di benessere|sensazione di benessere eccessiva|sentirsi estremamente felici
+473_1670	disease	pirosi			sensazione di bruciore allo stomaco
+15_1269	disease	arsura			sensazione di calore e secchezza
+367_1608|8_435|480_334	medication	simpaticomimetici			farmaci in grado di stimolare alcune parti del sistema nervoso|medicinali con effetto stimolante usati per esempio per trattare l’asma|utilizzati per malattie respiratorie e cardiache
+275_91	disease	sindrome di reye			malattia del cervello
+592_763|589_750|510_134	medication	stiripentolo			anticonvulsivante per il trattamento dell’ epilessia|anticonvulsivante per l’ epilessia|medicinale anticonvulsivante per il trattamento dell’epilessia
+169_2003|231_1216|339_1976|9_1978|450_394|269_173	medication	sulfinpirazone			medicinale per prevenire gli attacchi di cuore|medicinale usato per il trattamento della gotta|medicinale utilizzato nella prevenzione a seguito di un infarto|medicinale per trattare la gotta|farmaco per trattare disturbi della circolazione del sangue
+295_1810|547_1813|474_1816|372_1812|274_1821	disease	hsv			virus herpes simplex
+56_1431	medication	hrt			terapia ormonale sostitutiva
+456_537|298_85	body_part	esofago			canale che connette la bocca allo stomaco|canale che collega la bocca allo stomaco
+63_328|544_95	medication	uricosurici			medicinali che riducono la quantità di una sostanza chiamata acido urico nel sangue|medicinali usati per il trattamento della gotta
+61_1211|54_1210	disease	stenosi intestinale diaframma-simile			blocco intestinale
+7_212	body_part	basse vie respiratorie	vie respiratorie		bronchi e polmoni
+395_1774	disease	acromegalia			condizione in cui il corpo produce troppo ormone della crescita
+454_712	body_part	colesterolo			sostanza grassa
