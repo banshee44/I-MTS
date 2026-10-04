@@ -1,24 +1,19 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "di Buono"
-  given-names: "Maria Pia"
-  orcid: "https://orcid.org/0000-0001-7284-6556"
-title: "I-MTS - Italian Medical Term Simplification"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2026-10-04
-url: "https://github.com/banshee44/I-MTS"
-references:
-  - type: article
-    title: "Italian Medical Term Simplification: From Patient Information Leaflets to Simplified Language Resources"
-    authors:
-- family-names: "di Buono"
-  given-names: "Maria Pia"
-  #    booktitle = "Proceedings of the Third Workshop on Patient-Oriented Language Processing ({CL}4{H}ealth) @ {LREC} 2026"
-  #  year = "2026"
-  #  publisher = "ELRA Language Resources Association (ELRA)",
-  #  url = "https://aclanthology.org/2026.cl4health-1.17/",
-  #  doi = "10.63317/27j5nmzxz6u7",
-  #  pages = "182--189",
-  #  abstract = "Terminological simplification in patient information leaflets (PILs) is implemented through a variety of linguistic strategies. Although these strategies help improve text comprehensibility, their overall impact remains limited. The complexity of PILs is still influenced by multiple factors, including frequent cross-referential terminology, the presence of subordinate clauses, lengthy sentences, and the use of domain-specific terms. This paper introduces I-MTS (Italian Medical Term Simplification), the first resource specifically developed for medical term simplification in Italian. I-MTS is designed to support research on lexical simplification and to facilitate the automatic adaptation of medical texts for non-expert audiences, thereby enhancing the readability and accessibility of health information in Italian."
+message: "If you use this resource, please cite it as below."
+@inproceedings{di-buono-2026-italian,
+    title = "{I}talian Medical Term Simplification: From Patient Information Leaflets to Simplified Language Resources",
+    author = "di Buono, Maria Pia",
+    editor = "Gupta, Deepak  and
+      Thompson, Paul  and
+      Ananiadou, Sophia  and
+      Demner-Fushman, Dina",
+    booktitle = "Proceedings of the Third Workshop on Patient-Oriented Language Processing ({CL}4{H}ealth) @ {LREC} 2026",
+    month = may,
+    year = "2026",
+    address = "Palma, Mallorca (Spain)",
+    publisher = "ELRA Language Resources Association (ELRA)",
+    url = "https://aclanthology.org/2026.cl4health-1.17/",
+    doi = "10.63317/27j5nmzxz6u7",
+    pages = "182--189",
+    abstract = "Terminological simplification in patient information leaflets (PILs) is implemented through a variety of linguistic strategies. Although these strategies help improve text comprehensibility, their overall impact remains limited. The complexity of PILs is still influenced by multiple factors, including frequent cross-referential terminology, the presence of subordinate clauses, lengthy sentences, and the use of domain-specific terms. This paper introduces I-MTS (Italian Medical Term Simplification), the first resource specifically developed for medical term simplification in Italian. I-MTS is designed to support research on lexical simplification and to facilitate the automatic adaptation of medical texts for non-expert audiences, thereby enhancing the readability and accessibility of health information in Italian."
+}
