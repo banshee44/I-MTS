@@ -8,6 +8,7 @@ The resource is distributed as a UTF-8-encoded TSV file. The first row contains 
 
 | Column | Description |
 |---|---|
+| `id` | Identifier. |
 | `id_loc` | Identifier of the source entry. Multiple identifiers are separated by '|'. |
 | `term` | Medical term represented by the entry. |
 | `type_of` | Broader term under which the entry is classified, when available. |
